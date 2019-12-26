@@ -1,0 +1,1405 @@
+,sftgcode,year,byregn2,sftptv2a,group,sftpcons,disp4cat,maccat,logim,sample,match_id
+38,BHU,1956,2,Full autocracy,1,0,1,0,0.6252307,1.0,0
+61,CAM,1956,2,Transition,1,0,0,0,0.7784142,1.0,0
+79,CHN,1956,2,Full autocracy,1,1,1,0,0.034420226,1.0,0
+110,DRV,1956,2,Full autocracy,1,0,0,0,0.4009152,1.0,0
+170,IND,1956,2,Partial democracy without factionalism,2,1,1,0,0.45542806,1.0,1
+254,MON,1956,2,Full autocracy,2,0,0,0,0.17614166,1.0,1
+374,SRI,1956,2,Partial democracy without factionalism,2,0,1,0,-0.47703215,1.0,1
+410,THI,1956,2,Full autocracy,2,0,0,0,-0.06739604,1.0,1
+65,CAN,1956,3,Full democracy,1,0,1,0,-1.1891673,1.0,2
+168,HUN,1956,3,Full autocracy,1,1,1,0,-0.35750908,1.0,2
+174,IRE,1956,3,Full democracy,1,0,0,0,-1.0300086,1.0,2
+332,RUM,1956,3,Full autocracy,1,0,1,0,0.43925858,1.0,2
+0,AFG,1957,5,Full autocracy,1,0,0,0,0.66001683,1.0,3
+117,EGY,1957,5,Full autocracy,1,0,1,0,0.41192925,1.0,3
+182,ISR,1957,5,Full democracy,1,0,1,0,-1.0218674,1.0,3
+192,JOR,1957,5,Partial autocracy,1,1,0,0,0.20349656,1.0,3
+16,AUL,1958,2,Full democracy,1,0,1,0,-1.5107118,1.0,4
+195,JPN,1958,2,Full democracy,1,0,1,0,-0.88425595,1.0,4
+271,NEW,1958,2,Full democracy,1,0,1,0,-1.4438716999999999,1.0,4
+310,PKS,1958,2,Partial democracy with factionalism,1,1,1,0,0.42859334,1.0,4
+307,PHI,1958,2,Partial democracy with factionalism,2,0,0,0,-0.15127249,1.0,5
+320,PRK,1958,2,Full autocracy,2,0,0,0,-0.26521674,1.0,5
+337,RVN,1958,2,Partial autocracy,2,1,0,0,0.33995402,1.0,5
+397,TAW,1958,2,Full autocracy,2,0,1,0,-0.31413954,1.0,5
+104,CZE,1958,3,Full autocracy,1,0,1,0,-1.1412162000000001,1.0,6
+129,FRN,1958,3,Full democracy,1,1,0,0,-0.9989648999999999,1.0,6
+135,GDR,1958,3,Full autocracy,1,0,0,0,-0.7485717,1.0,6
+288,NTH,1958,3,Full democracy,1,0,0,0,-1.5823413999999998,1.0,6
+213,LEB,1958,5,Partial democracy with factionalism,1,1,1,0,-0.31692895,1.0,7
+219,LIB,1958,5,Full autocracy,1,0,0,0,0.62527996,1.0,7
+292,OMA,1958,5,Full autocracy,1,0,0,0,0.7052808,1.0,7
+350,SAU,1958,5,Full autocracy,1,0,1,0,0.70226115,1.0,7
+178,IRN,1959,5,Full autocracy,1,0,1,0,0.5593199999999999,1.0,8
+180,IRQ,1959,5,Partial autocracy,1,1,0,0,0.47478000000000004,1.0,8
+259,MOR,1959,5,Partial autocracy,1,0,0,0,0.5844455,1.0,8
+422,TUR,1959,5,Partial democracy with factionalism,1,0,1,0,0.5474150999999999,1.0,8
+39,BHU,1960,2,Full autocracy,1,0,1,0,0.7152089,1.0,9
+62,CAM,1960,2,Full autocracy,1,0,0,0,0.8368281999999999,1.0,9
+111,DRV,1960,2,Full autocracy,1,0,0,0,0.39268887,1.0,9
+207,LAO,1960,2,Full democracy,1,1,0,1,0.53554475,1.0,9
+237,MAL,1960,2,Full democracy,2,0,0,0,-0.13742517,1.0,10
+255,MON,1960,2,Full autocracy,2,0,0,0,0.27426273,1.0,10
+266,NEP,1960,2,Transition,2,1,0,0,0.68385494,1.0,10
+375,SRI,1960,2,Partial democracy without factionalism,2,0,1,0,-0.41805765,1.0,10
+124,ETH,1961,1,Full autocracy,1,1,1,0,0.44766545,1.0,11
+150,GUI,1961,1,Full autocracy,1,0,0,0,0.81045115,1.0,11
+209,LBR,1961,1,Full autocracy,1,0,0,0,0.5620758000000001,1.0,11
+341,SAF,1961,1,Partial autocracy,1,0,1,0,-0.13846968,1.0,11
+17,AUL,1961,2,Full democracy,1,0,1,0,-1.4623938,1.0,12
+171,IND,1961,2,Partial democracy without factionalism,1,0,1,0,0.5078037999999999,1.0,12
+263,MYA,1961,2,Partial democracy with factionalism,1,1,1,0,0.32859027,1.0,12
+308,PHI,1961,2,Partial democracy with factionalism,1,0,0,0,-0.14094798,1.0,12
+311,PKS,1961,2,Full autocracy,2,0,1,0,0.47013829999999995,1.0,13
+321,PRK,1961,2,Full autocracy,2,0,0,0,-0.25795588,1.0,13
+329,ROK,1961,2,Partial autocracy,2,1,0,0,-0.3483965,1.0,13
+398,TAW,1961,2,Full autocracy,2,0,1,0,-0.25795588,1.0,13
+54,BRA,1961,4,Partial democracy with factionalism,1,1,0,0,0.29706678,1.0,14
+301,PAR,1961,4,Full autocracy,1,0,1,0,-0.051974107,1.0,14
+346,SAL,1961,4,Full autocracy,1,0,1,0,0.3755686,1.0,14
+440,VEN,1961,4,Partial democracy without factionalism,1,0,1,0,0.09550609,1.0,14
+66,CAO,1962,1,Full autocracy,1,0,0,0,0.15800425,1.0,15
+138,GHA,1962,1,Full autocracy,1,0,0,0,-0.085589916,1.0,15
+229,MAG,1962,1,Partial autocracy,1,0,0,0,0.38260424,1.0,15
+357,SEN,1962,1,Partial autocracy,1,1,0,0,0.11244772,1.0,15
+1,AFG,1962,5,Full autocracy,1,0,0,0,0.618346,1.0,16
+118,EGY,1962,5,Full autocracy,1,0,1,0,0.31504261,1.0,16
+423,TUR,1962,5,Transition,1,0,1,0,0.40182328,1.0,16
+445,YAR,1962,5,Partial autocracy,1,1,0,0,0.55724216,1.0,16
+27,BEN,1963,1,Partial democracy with factionalism,1,1,0,0,0.47496590000000005,1.0,17
+33,BFO,1963,1,Full autocracy,1,0,0,0,0.5076028,1.0,17
+72,CEN,1963,1,Full autocracy,1,0,0,0,0.3005122,1.0,17
+186,IVO,1963,1,Full autocracy,1,0,1,0,0.28471407,1.0,17
+88,CON,1963,1,Partial democracy with factionalism,2,1,0,0,0.3548104,1.0,18
+223,MAA,1963,1,Full autocracy,2,0,1,0,0.17722817,1.0,18
+285,NIR,1963,1,Full autocracy,2,0,0,0,0.26021254,1.0,18
+369,SOM,1963,1,Partial democracy without factionalism,2,0,0,0,0.6747744999999999,1.0,18
+4,ALB,1963,3,Full autocracy,1,0,0,0,0.018456900000000002,1.0,19
+100,CYP,1963,3,Partial democracy with factionalism,1,1,1,0,-1.149861,1.0,19
+317,POR,1963,3,Full autocracy,1,0,0,0,-0.28514507,1.0,19
+432,UK,1963,3,Full democracy,1,0,1,0,-1.6759541,1.0,19
+77,CHL,1963,4,Partial democracy with factionalism,1,0,0,0,-0.10432614400000001,1.0,20
+94,COS,1963,4,Full democracy,1,0,0,0,-0.43948346,1.0,20
+107,DOM,1963,4,Transition,1,1,1,0,-0.021395767000000003,1.0,20
+164,HON,1963,4,Partial autocracy,1,0,1,0,-0.010212855,1.0,20
+131,GAB,1964,1,Full autocracy,1,0,0,0,0.42710605,1.0,21
+151,GUI,1964,1,Full autocracy,1,0,0,0,0.5333675999999999,1.0,21
+210,LBR,1964,1,Full autocracy,1,0,0,0,0.3289185,1.0,21
+281,NIG,1964,1,Partial democracy with factionalism,1,1,0,0,0.17248636,1.0,21
+67,CAO,1965,1,Full autocracy,1,0,0,0,0.08799262,1.0,22
+75,CHA,1965,1,Full autocracy,1,1,1,0,0.44789886,1.0,22
+139,GHA,1965,1,Full autocracy,1,0,0,0,-0.24466945,1.0,22
+230,MAG,1965,1,Partial autocracy,1,0,0,0,0.30964127,1.0,22
+40,BHU,1965,2,Full autocracy,1,0,1,0,0.49373429999999996,1.0,23
+112,DRV,1965,2,Full autocracy,1,0,0,0,-0.030828297,1.0,23
+330,ROK,1965,2,Partial democracy with factionalism,1,0,0,0,-0.74475056,1.0,23
+411,THI,1965,2,Full autocracy,1,1,0,0,-0.28843755,1.0,23
+214,LEB,1965,5,Partial democracy with factionalism,1,0,1,0,-0.6059848000000001,1.0,24
+260,MOR,1965,5,Partial democracy with factionalism,1,1,0,0,0.33653697,1.0,24
+351,SAU,1965,5,Full autocracy,1,0,1,0,0.3727659,1.0,24
+424,TUR,1965,5,Partial democracy without factionalism,1,0,1,0,0.29355514,1.0,24
+34,BFO,1966,1,Full autocracy,1,0,0,0,0.55560243,1.0,25
+73,CEN,1966,1,Full autocracy,1,0,0,0,0.3536798,1.0,25
+414,TOG,1966,1,Full autocracy,1,0,0,0,0.3897662,1.0,25
+431,UGA,1966,1,Partial democracy without factionalism,1,1,1,1,0.16899325,1.0,25
+80,CHN,1966,2,Full autocracy,1,1,1,1,-0.23253329,1.0,26
+196,JPN,1966,2,Full democracy,1,0,1,0,-1.6572938999999998,1.0,26
+322,PRK,1966,2,Full autocracy,1,0,0,0,-0.48925313,1.0,26
+376,SRI,1966,2,Partial democracy without factionalism,1,0,1,0,-0.6838448,1.0,26
+11,ARG,1966,4,Partial autocracy,1,1,1,0,-0.6123858,1.0,27
+48,BOL,1966,4,Full autocracy,1,0,0,0,0.055443547999999995,1.0,27
+95,COS,1966,4,Full democracy,1,0,0,0,-0.15758336,1.0,27
+165,HON,1966,4,Partial autocracy,1,0,1,0,-0.003745323,1.0,27
+149,GUA,1966,4,Full autocracy,2,1,1,0,0.07210329,1.0,28
+276,NIC,1966,4,Full autocracy,2,0,0,0,0.2137538,1.0,28
+347,SAL,1966,4,Partial autocracy,2,0,1,0,0.14503044,1.0,28
+418,TRI,1966,4,Partial democracy with factionalism,2,0,0,0,-0.7390443,1.0,28
+89,CON,1967,1,Full autocracy,1,0,0,0,0.38208562,1.0,29
+342,SAF,1967,1,Partial autocracy,1,0,1,0,-0.39017704,1.0,29
+358,SEN,1967,1,Full autocracy,1,0,0,0,0.004069642,1.0,29
+361,SIE,1967,1,Partial democracy with factionalism,1,1,0,0,0.65245736,1.0,29
+172,IND,1967,2,Partial democracy without factionalism,1,1,1,0,0.25216994,1.0,30
+267,NEP,1967,2,Full autocracy,1,0,0,0,0.4274242999999999,1.0,30
+272,NEW,1967,2,Full democracy,1,0,1,0,-1.7332425999999999,1.0,30
+399,TAW,1967,2,Full autocracy,1,0,1,0,-0.8471468000000001,1.0,30
+5,ALB,1967,3,Full autocracy,1,0,0,0,0.23225461,1.0,31
+146,GRC,1967,3,Partial autocracy,1,1,1,0,-1.1685117,1.0,31
+175,IRE,1967,3,Full democracy,1,0,0,0,-1.4728527,1.0,31
+389,SWZ,1967,3,Partial democracy without factionalism,1,0,1,0,-1.8244586999999999,1.0,31
+25,BEL,1968,3,Full democracy,1,0,0,0,-1.4351809,1.0,32
+60,BUL,1968,3,Full autocracy,1,0,1,0,-0.6474599,1.0,32
+105,CZE,1968,3,Full autocracy,1,1,1,0,-1.4722986,1.0,32
+333,RUM,1968,3,Full autocracy,1,0,1,0,-0.08810726599999999,1.0,32
+83,COL,1968,4,Partial democracy without factionalism,1,0,1,0,-0.053960133,1.0,33
+98,CUB,1968,4,Full autocracy,1,0,0,0,-0.72596914,1.0,33
+160,HAI,1968,4,Full autocracy,1,0,0,0,0.32574365,1.0,33
+297,PAN,1968,4,Partial democracy with factionalism,1,1,1,0,-0.4846648,1.0,33
+191,JAM,1968,4,Full democracy,2,0,0,0,-0.8420107,1.0,34
+248,MEX,1968,4,Full autocracy,2,0,0,0,-0.30077952,1.0,34
+302,PAR,1968,4,Full autocracy,2,0,1,0,-0.3793043,1.0,34
+304,PER,1968,4,Partial democracy with factionalism,2,1,0,0,0.10555327,1.0,34
+231,MAG,1969,1,Partial autocracy,1,0,0,0,0.3808232,1.0,35
+370,SOM,1969,1,Partial democracy without factionalism,1,1,0,0,0.7692815,1.0,35
+403,TAZ,1969,1,Full autocracy,1,0,0,0,0.54883635,1.0,35
+456,ZAI,1969,1,Full autocracy,1,0,1,0,0.51183933,1.0,35
+18,AUL,1969,2,Full democracy,1,0,0,0,-1.6841702,1.0,36
+41,BHU,1969,2,Full autocracy,1,0,1,0,0.5725712,1.0,36
+113,DRV,1969,2,Full autocracy,1,0,0,0,-0.21029541,1.0,36
+238,MAL,1969,2,Full democracy,1,1,0,0,-0.4368867,1.0,36
+197,JPN,1969,2,Full democracy,2,0,1,0,-1.8897101000000003,1.0,37
+256,MON,1969,2,Full autocracy,2,0,0,0,0.15992938,1.0,37
+309,PHI,1969,2,Partial democracy with factionalism,2,1,0,0,-0.33404112,1.0,37
+364,SIN,1969,2,Partial autocracy,2,0,0,0,-1.3721955,1.0,37
+50,BOT,1970,1,Partial democracy without factionalism,1,0,0,0,-0.2695012,1.0,38
+68,CAO,1970,1,Full autocracy,1,0,0,0,0.11794539,1.0,38
+216,LES,1970,1,Partial democracy without factionalism,1,1,0,0,0.21286194,1.0,38
+338,RWA,1970,1,Partial autocracy,1,0,1,0,0.47401407,1.0,38
+63,CAM,1970,2,Full autocracy,1,1,0,0,0.65441346,1.0,39
+268,NEP,1970,2,Full autocracy,1,0,0,0,0.46058288,1.0,39
+273,NEW,1970,2,Full democracy,1,0,1,0,-1.7028016,1.0,39
+400,TAW,1970,2,Full autocracy,1,0,1,0,-0.8771261999999999,1.0,39
+55,BRA,1970,4,Full autocracy,1,0,0,0,0.011140826999999999,1.0,40
+115,ECU,1970,4,Partial democracy with factionalism,1,1,1,0,-0.3326801,1.0,40
+156,GUY,1970,4,Partial autocracy,1,0,1,0,-0.3477386,1.0,40
+277,NIC,1970,4,Full autocracy,1,0,0,0,0.16611692,1.0,40
+2,AFG,1970,5,Full autocracy,1,0,0,0,0.61780196,1.0,41
+7,ALG,1970,5,Full autocracy,1,0,1,0,0.1644654,1.0,41
+193,JOR,1970,5,Full autocracy,1,1,0,0,-0.13596982,1.0,41
+203,KUW,1970,5,Full autocracy,1,0,0,0,-0.8026838000000001,1.0,41
+220,LIB,1970,5,Full autocracy,2,0,0,0,0.20257297,1.0,42
+293,OMA,1970,5,Full autocracy,2,1,0,0,0.3597875,1.0,42
+352,SAU,1970,5,Full autocracy,2,0,1,0,0.25223407,1.0,42
+420,TUN,1970,5,Full autocracy,2,0,0,0,0.3806426,1.0,42
+19,AUL,1971,2,Full democracy,1,0,0,0,-1.7273451000000002,1.0,43
+42,BHU,1971,2,Full autocracy,1,0,1,0,0.53360295,1.0,43
+114,DRV,1971,2,Full autocracy,1,0,0,0,-0.20664681,1.0,43
+312,PKS,1971,2,Transition,1,1,1,0,0.31944629999999996,1.0,43
+289,NTH,1971,3,Full democracy,1,0,0,0,-2.031929,1.0,44
+386,SWD,1971,3,Full democracy,1,0,0,0,-2.152557,1.0,44
+390,SWZ,1971,3,Partial democracy without factionalism,1,0,1,0,-1.8777783,1.0,44
+433,UK,1971,3,Full democracy,1,1,1,0,-1.6889843,1.0,44
+96,COS,1971,4,Full democracy,1,0,0,0,-0.30673027,1.0,45
+305,PER,1971,4,Full autocracy,1,0,0,0,0.07736553,1.0,45
+348,SAL,1971,4,Partial autocracy,1,0,1,0,0.10813719,1.0,45
+436,URU,1971,4,Full democracy,1,1,0,0,-0.65898085,1.0,45
+119,EGY,1971,5,Full autocracy,1,0,1,0,0.21776666,1.0,46
+392,SYR,1971,5,Full autocracy,1,0,0,0,-0.006975614000000001,1.0,46
+425,TUR,1971,5,Partial democracy without factionalism,1,1,1,0,0.24533832,1.0,46
+451,YPR,1971,5,Full autocracy,1,0,0,0,0.3464942,1.0,46
+28,BEN,1972,1,Partial autocracy,1,1,0,0,0.54913676,1.0,47
+132,GAB,1972,1,Full autocracy,1,0,0,0,0.45850405,1.0,47
+152,GUI,1972,1,Full autocracy,1,0,0,0,0.55564374,1.0,47
+232,MAG,1972,1,Partial autocracy,1,0,0,0,0.35811275,1.0,47
+140,GHA,1972,1,Partial autocracy,2,1,0,0,-0.18334983,1.0,48
+240,MAS,1972,1,Partial democracy without factionalism,2,0,0,0,-0.50877225,1.0,48
+251,MLI,1972,1,Full autocracy,2,0,0,0,0.56034964,1.0,48
+343,SAF,1972,1,Partial autocracy,2,0,1,0,-0.33359867,1.0,48
+371,SOM,1972,1,Full autocracy,3,0,0,0,0.73491424,1.0,49
+404,TAZ,1972,1,Full autocracy,3,0,0,0,0.48542875,1.0,49
+415,TOG,1972,1,Full autocracy,3,0,0,0,0.44608152,1.0,49
+463,ZIM,1972,1,Partial autocracy,3,1,1,0,-0.27238345,1.0,49
+257,MON,1972,2,Full autocracy,1,0,0,0,0.15839946,1.0,50
+323,PRK,1972,2,Full autocracy,1,0,0,0,-0.5070643,1.0,50
+331,ROK,1972,2,Partial democracy with factionalism,1,1,0,0,-0.78455955,1.0,50
+377,SRI,1972,2,Partial democracy with factionalism,1,0,1,0,-0.71077335,1.0,50
+224,MAA,1973,1,Full autocracy,1,0,1,0,0.32237697,1.0,51
+243,MAW,1973,1,Full autocracy,1,0,0,0,0.66876924,1.0,51
+359,SEN,1973,1,Full autocracy,1,0,0,0,0.10634525,1.0,51
+380,SWA,1973,1,Partial democracy with factionalism,1,1,0,0,0.5332328000000001,1.0,51
+78,CHL,1973,4,Partial democracy with factionalism,1,1,0,0,-0.21198545,1.0,52
+108,DOM,1973,4,Partial autocracy,1,0,1,0,-0.022696795,1.0,52
+278,NIC,1973,4,Full autocracy,1,0,0,0,0.21003114,1.0,52
+298,PAN,1973,4,Full autocracy,1,0,1,0,-0.5653795,1.0,52
+20,AUL,1974,2,Full democracy,1,0,0,0,-1.6171921,1.0,53
+43,BHU,1974,2,Full autocracy,1,0,1,0,0.6853929,1.0,53
+47,BNG,1974,2,Partial democracy with factionalism,1,1,1,0,0.4785823,1.0,53
+401,TAW,1974,2,Full autocracy,1,0,1,0,-0.9421724,1.0,53
+101,CYP,1974,3,Partial democracy with factionalism,1,1,1,0,-1.704748,1.0,54
+126,FIN,1974,3,Full democracy,1,0,0,0,-1.9476943,1.0,54
+136,GDR,1974,3,Full autocracy,1,0,0,0,-1.564702,1.0,54
+391,SWZ,1974,3,Full democracy,1,0,1,0,-1.8448368000000002,1.0,54
+22,BAH,1975,5,Full autocracy,1,0,1,0,-0.30434573,1.0,55
+120,EGY,1975,5,Full autocracy,1,0,0,0,0.34267166,1.0,55
+215,LEB,1975,5,Partial democracy with factionalism,1,1,1,0,-0.5461041,1.0,55
+353,SAU,1975,5,Full autocracy,1,0,1,0,0.23492394,1.0,55
+261,MOR,1975,5,Full autocracy,2,1,0,0,0.36053687,1.0,56
+426,TUR,1975,5,Partial democracy without factionalism,2,0,1,0,0.41309413,1.0,56
+446,YAR,1975,5,Full autocracy,2,0,0,0,0.5846916999999999,1.0,56
+452,YPR,1975,5,Full autocracy,2,0,0,0,0.47211748,1.0,56
+12,ARG,1976,4,Partial democracy with factionalism,1,1,1,0,-0.50694054,1.0,57
+249,MEX,1976,4,Full autocracy,1,0,0,0,-0.26840582,1.0,57
+299,PAN,1976,4,Full autocracy,1,0,1,0,-0.57885313,1.0,57
+437,URU,1976,4,Full autocracy,1,0,0,0,-0.52547866,1.0,57
+58,BUI,1977,1,Full autocracy,1,0,1,0,0.16686271,1.0,58
+233,MAG,1977,1,Full autocracy,1,0,0,0,0.46579704,1.0,58
+381,SWA,1977,1,Full autocracy,1,0,0,0,0.48205754,1.0,58
+457,ZAI,1977,1,Full autocracy,1,1,1,0,0.62428755,1.0,58
+97,COS,1977,4,Full democracy,1,0,0,0,-0.66132075,1.0,59
+109,DOM,1977,4,Partial autocracy,1,0,1,0,-0.020101178,1.0,59
+349,SAL,1977,4,Partial autocracy,1,1,1,0,0.22314355,1.0,59
+419,TRI,1977,4,Partial democracy with factionalism,1,0,0,0,-0.6981347,1.0,59
+179,IRN,1977,5,Full autocracy,1,1,1,0,0.26599333,1.0,60
+183,ISR,1977,5,Partial democracy without factionalism,1,0,1,0,-1.2515199,1.0,60
+204,KUW,1977,5,Full autocracy,1,0,0,0,-0.7234524999999999,1.0,60
+428,UAE,1977,5,Full autocracy,1,0,0,0,-0.57370716,1.0,60
+49,BOL,1978,4,Full autocracy,1,0,0,0,0.145558,1.0,61
+56,BRA,1978,4,Partial autocracy,1,0,0,0,0.025680718999999998,1.0,61
+99,CUB,1978,4,Full autocracy,1,0,0,0,-1.2747822,1.0,61
+157,GUY,1978,4,Partial autocracy,1,1,1,0,-0.25573173,1.0,61
+116,ECU,1978,4,Full autocracy,2,0,1,0,-0.22042492,1.0,62
+161,HAI,1978,4,Full autocracy,2,0,0,0,0.42957225,1.0,62
+166,HON,1978,4,Partial autocracy,2,0,0,0,-0.17761396,1.0,62
+279,NIC,1978,4,Full autocracy,2,1,0,0,0.09734298,1.0,62
+3,AFG,1978,5,Full autocracy,1,1,0,0,0.805741,1.0,63
+354,SAU,1978,5,Full autocracy,1,0,1,0,0.07402155,1.0,63
+447,YAR,1978,5,Full autocracy,1,0,0,0,0.5291682,1.0,63
+453,YPR,1978,5,Full autocracy,1,0,0,0,0.4008163,1.0,63
+29,BEN,1980,1,Full autocracy,1,0,0,0,0.6787772,1.0,64
+35,BFO,1980,1,Partial democracy with factionalism,1,1,0,0,0.5835986,1.0,64
+85,COM,1980,1,Full autocracy,1,0,0,0,0.41450325,1.0,64
+153,GUI,1980,1,Full autocracy,1,0,0,0,0.6336973000000001,1.0,64
+211,LBR,1980,1,Full autocracy,2,0,0,0,0.6561549,1.0,65
+225,MAA,1980,1,Full autocracy,2,0,1,0,0.39109516,1.0,65
+282,NIG,1980,1,Transition,2,1,0,0,0.33145690000000005,1.0,65
+405,TAZ,1980,1,Full autocracy,2,0,0,0,0.49355674,1.0,65
+8,ALG,1980,5,Full autocracy,1,0,1,0,0.15803418,1.0,66
+121,EGY,1980,5,Full autocracy,1,0,0,0,0.31644723,1.0,66
+181,IRQ,1980,5,Full autocracy,1,1,1,0,0.19392711,1.0,66
+194,JOR,1980,5,Full autocracy,1,0,0,0,-0.16305314,1.0,66
+294,OMA,1980,5,Full autocracy,2,0,0,0,0.0,1.0,67
+327,QAT,1980,5,Full autocracy,2,0,0,0,-0.28466028,1.0,67
+427,TUR,1980,5,Partial democracy without factionalism,2,1,1,0,0.31171015,1.0,67
+429,UAE,1980,5,Full autocracy,2,0,0,0,-0.6413352,1.0,67
+90,CON,1981,1,Full autocracy,1,0,1,0,0.61394644,1.0,68
+141,GHA,1981,1,Partial democracy with factionalism,1,1,0,0,0.09138186,1.0,68
+244,MAW,1981,1,Full autocracy,1,0,0,0,0.7912713,1.0,68
+362,SIE,1981,1,Full autocracy,1,0,1,0,0.94550925,1.0,68
+23,BAH,1981,5,Full autocracy,1,0,1,0,-0.5340031999999999,1.0,69
+221,LIB,1981,5,Full autocracy,1,0,0,0,-0.009478744,1.0,69
+393,SYR,1981,5,Full autocracy,1,1,0,1,-0.08139133,1.0,69
+448,YAR,1981,5,Full autocracy,1,0,0,0,0.5737625,1.0,69
+250,MEX,1982,4,Partial autocracy,1,0,0,0,-0.31524003,1.0,70
+300,PAN,1982,4,Full autocracy,1,0,0,0,-0.70321196,1.0,70
+306,PER,1982,4,Partial democracy with factionalism,1,1,0,0,0.20378718,1.0,70
+441,VEN,1982,4,Full democracy,1,0,1,0,-0.31132612,1.0,70
+51,BOT,1983,1,Partial democracy without factionalism,1,0,0,0,-0.10518985,1.0,71
+226,MAA,1983,1,Full autocracy,1,0,1,0,0.51358676,1.0,71
+379,SUD,1983,1,Full autocracy,1,1,0,1,0.39878643,1.0,71
+458,ZAI,1983,1,Full autocracy,1,0,1,0,0.7578296999999999,1.0,71
+44,BHU,1983,2,Full autocracy,1,0,1,0,0.84663934,1.0,72
+81,CHN,1983,2,Full autocracy,1,0,0,1,-0.27800047,1.0,72
+173,IND,1983,2,Partial democracy with factionalism,1,1,1,0,0.5052803,1.0,72
+198,JPN,1983,2,Full democracy,1,0,1,0,-2.2158298,1.0,72
+239,MAL,1983,2,Partial democracy with factionalism,2,0,0,0,-0.48954824,1.0,73
+274,NEW,1983,2,Full democracy,2,0,0,0,-1.7163357,1.0,73
+296,PAK,1983,2,Full autocracy,2,1,1,1,0.68155956,1.0,73
+313,PNG,1983,2,Full democracy,2,0,1,0,0.2620097,1.0,73
+365,SIN,1983,2,Partial autocracy,3,0,0,0,-1.7780293000000003,1.0,74
+367,SOL,1983,2,Partial democracy without factionalism,3,0,0,0,-0.31688046,1.0,74
+378,SRI,1983,2,Partial democracy with factionalism,3,1,1,0,-0.70085734,1.0,74
+442,VIE,1983,2,Full autocracy,3,0,1,0,-0.17223436,1.0,74
+69,CAO,1984,1,Full autocracy,1,0,0,0,0.4916723,1.0,75
+234,MAG,1984,1,Full autocracy,1,0,0,0,0.58546174,1.0,75
+344,SAF,1984,1,Partial autocracy,1,1,1,0,-0.06303911,1.0,75
+460,ZAM,1984,1,Full autocracy,1,0,0,1,0.39251995,1.0,75
+13,ARG,1984,4,Full autocracy,1,0,1,0,-0.7358465999999999,1.0,76
+84,COL,1984,4,Partial democracy without factionalism,1,1,1,0,-0.20049207,1.0,76
+158,GUY,1984,4,Full autocracy,1,0,1,0,-0.057915274,1.0,76
+303,PAR,1984,4,Full autocracy,1,0,1,0,-0.1284913,1.0,76
+30,BEN,1985,1,Full autocracy,1,0,0,0,0.79616773,1.0,77
+212,LBR,1985,1,Full autocracy,1,1,0,0,0.87713677,1.0,77
+217,LES,1985,1,Full autocracy,1,0,0,0,0.47062948,1.0,77
+339,RWA,1985,1,Full autocracy,1,0,1,0,0.7901254,1.0,77
+9,ALG,1986,5,Full autocracy,1,0,1,0,0.24724111,1.0,78
+421,TUN,1986,5,Full autocracy,1,0,0,0,-0.008748961999999999,1.0,78
+430,UAE,1986,5,Full autocracy,1,0,0,0,-0.6290443,1.0,78
+454,YPR,1986,5,Full autocracy,1,1,0,0,0.616221,1.0,78
+21,AUL,1987,2,Full democracy,1,0,0,0,-1.7173951,1.0,79
+45,BHU,1987,2,Full autocracy,1,0,1,0,0.9442620999999999,1.0,79
+128,FJI,1987,2,Partial democracy without factionalism,1,1,0,0,-0.9519271999999999,1.0,79
+443,VIE,1987,2,Full autocracy,1,0,1,0,-0.15295450000000002,1.0,79
+184,ISR,1987,5,Partial democracy without factionalism,1,1,1,0,-1.7274453999999997,1.0,80
+205,KUW,1987,5,Full autocracy,1,0,0,0,-1.1296084,1.0,80
+355,SAU,1987,5,Full autocracy,1,0,1,0,-0.12815985,1.0,80
+394,SYR,1987,5,Full autocracy,1,0,0,1,0.0,1.0,80
+31,BEN,1988,1,Full autocracy,1,0,0,0,0.8002524999999999,1.0,81
+59,BUI,1988,1,Full autocracy,1,1,1,0,0.42247644,1.0,81
+86,COM,1988,1,Full autocracy,1,0,0,0,0.6839135000000001,1.0,81
+142,GHA,1988,1,Full autocracy,1,0,0,0,0.3500353,1.0,81
+187,IVO,1988,1,Full autocracy,2,0,1,0,0.7398343000000001,1.0,82
+245,MAW,1988,1,Full autocracy,2,0,0,0,0.93882895,1.0,82
+372,SOM,1988,1,Full autocracy,2,1,1,0,0.9294392,1.0,82
+382,SWA,1988,1,Full autocracy,2,0,0,0,0.3117468,1.0,82
+82,CHN,1988,2,Full autocracy,1,1,0,1,-0.17645644,1.0,83
+269,NEP,1988,2,Partial autocracy,1,0,0,0,0.62566316,1.0,83
+275,NEW,1988,2,Full democracy,1,0,0,0,-1.5804504,1.0,83
+324,PRK,1988,2,Full autocracy,1,0,0,0,-0.28035602,1.0,83
+199,JPN,1989,2,Full democracy,1,0,1,0,-2.3608540000000002,1.0,84
+208,LAO,1989,2,Full autocracy,1,0,0,0,0.82467186,1.0,84
+258,MON,1989,2,Full autocracy,1,0,0,0,0.51834446,1.0,84
+314,PNG,1989,2,Full democracy,1,1,1,0,0.4142316,1.0,84
+127,FIN,1989,3,Full democracy,1,0,0,0,-2.1457427000000004,1.0,85
+290,NTH,1989,3,Full democracy,1,0,0,0,-1.9421437,1.0,85
+334,RUM,1989,3,Full autocracy,1,1,1,0,0.053272467000000004,1.0,85
+373,SPN,1989,3,Full democracy,1,0,0,0,-1.7842406000000002,1.0,85
+52,BOT,1990,1,Partial democracy without factionalism,1,0,0,0,-0.23095609,1.0,86
+91,CON,1990,1,Full autocracy,1,0,1,0,0.84785354,1.0,86
+154,GUI,1990,1,Full autocracy,1,0,0,0,0.8436781999999999,1.0,86
+252,MLI,1990,1,Full autocracy,1,1,0,0,1.0336413,1.0,86
+227,MAA,1990,1,Full autocracy,2,0,1,0,0.62366784,1.0,87
+283,NIG,1990,1,Full autocracy,2,0,0,0,0.52511984,1.0,87
+340,RWA,1990,1,Full autocracy,2,1,1,0,0.883864,1.0,87
+406,TAZ,1990,1,Full autocracy,2,0,0,0,0.68337196,1.0,87
+70,CAO,1991,1,Full autocracy,1,0,1,0,0.57411087,1.0,88
+188,IVO,1991,1,Full autocracy,1,0,1,0,0.8296800999999999,1.0,88
+201,KEN,1991,1,Full autocracy,1,1,1,1,0.2612846,1.0,88
+286,NIR,1991,1,Full autocracy,1,0,1,0,0.96058565,1.0,88
+363,SIE,1991,1,Full autocracy,2,1,1,0,1.23631,1.0,89
+383,SWA,1991,1,Full autocracy,2,0,0,0,0.24101889999999998,1.0,89
+416,TOG,1991,1,Full autocracy,2,0,0,0,0.57298154,1.0,89
+464,ZIM,1991,1,Full autocracy,2,0,1,0,0.027669747999999997,1.0,89
+102,CYP,1991,3,Full democracy,1,0,0,0,-1.549167,1.0,90
+147,GRC,1991,3,Full democracy,1,0,1,0,-1.6693113000000002,1.0,90
+176,IRE,1991,3,Full democracy,1,0,0,0,-1.818157,1.0,90
+439,USS,1991,3,Full autocracy,1,1,0,1,-0.12356122,1.0,90
+318,POR,1991,3,Full democracy,2,0,0,0,-1.4168155,1.0,91
+387,SWD,1991,3,Full democracy,2,0,0,0,-2.1521630000000003,1.0,91
+434,UK,1991,3,Full democracy,2,0,0,0,-1.7817893,1.0,91
+455,YUG,1991,3,Full autocracy,2,1,1,0,-0.7530206,1.0,91
+162,HAI,1991,4,Full autocracy,1,1,0,0,0.77672917,1.0,92
+167,HON,1991,4,Partial democracy without factionalism,1,0,0,0,-0.23879649,1.0,92
+280,NIC,1991,4,Partial autocracy,1,0,0,0,0.12421963,1.0,92
+438,URU,1991,4,Full democracy,1,0,0,0,-0.81897855,1.0,92
+10,ALG,1991,5,Partial autocracy,1,1,1,0,0.16241872,1.0,93
+222,LIB,1991,5,Full autocracy,1,0,0,0,-0.05562711,1.0,93
+295,OMA,1991,5,Full autocracy,1,0,0,0,-0.28835028,1.0,93
+395,SYR,1991,5,Full autocracy,1,0,0,1,-0.008048333000000001,1.0,93
+32,BEN,1992,1,Transition,1,0,0,0,0.79145813,1.0,94
+36,BFO,1992,1,Full autocracy,1,0,0,0,0.8540636,1.0,94
+123,EQG,1992,1,Full autocracy,1,0,1,0,0.8654323,1.0,94
+360,SEN,1992,1,Partial autocracy,1,1,1,0,0.40546509999999997,1.0,94
+143,GHA,1992,1,Full autocracy,2,0,0,0,0.36470050000000004,1.0,95
+246,MAW,1992,1,Full autocracy,2,0,0,0,0.96861655,1.0,95
+265,NAM,1992,1,Partial democracy without factionalism,2,0,0,0,0.21484475,1.0,95
+459,ZAI,1992,1,Full autocracy,2,1,1,1,0.92041445,1.0,95
+24,BAH,1992,5,Full autocracy,1,0,1,0,-0.49510956,1.0,96
+122,EGY,1992,5,Full autocracy,1,1,0,0,0.41778558,1.0,96
+262,MOR,1992,5,Full autocracy,1,0,1,0,0.35750106,1.0,96
+328,QAT,1992,5,Full autocracy,1,0,0,0,-0.43269193,1.0,96
+53,BOT,1994,1,Partial democracy without factionalism,1,0,0,0,-0.13698801,1.0,97
+71,CAO,1994,1,Partial autocracy,1,0,1,0,0.68465716,1.0,97
+134,GAM,1994,1,Full democracy,1,1,0,0,0.789774,1.0,97
+384,SWA,1994,1,Full autocracy,1,0,0,0,0.35595006,1.0,97
+137,GER,1994,3,Full democracy,1,0,1,0,-1.9149921000000003,1.0,98
+177,IRE,1994,3,Full democracy,1,0,0,0,-1.8514787,1.0,98
+316,POL,1994,3,Partial democracy without factionalism,1,0,0,0,-0.8725744000000001,1.0,98
+336,RUS,1994,3,Partial democracy with factionalism,1,1,0,0,-0.6692796999999999,1.0,98
+206,KZK,1994,5,Partial autocracy,1,0,0,0,0.11186108,1.0,99
+356,SAU,1994,5,Full autocracy,1,0,1,0,-0.45371196,1.0,99
+396,SYR,1994,5,Full autocracy,1,0,0,0,0.08781621,1.0,99
+449,YEM,1994,5,Transition,1,1,0,0,0.7063446999999999,1.0,99
+87,COM,1995,1,Partial democracy with factionalism,1,1,0,0,0.9314444,1.0,100
+241,MAS,1995,1,Full democracy,1,0,0,0,-0.7223556,1.0,100
+407,TAZ,1995,1,Full autocracy,1,0,0,1,0.98332924,1.0,100
+465,ZIM,1995,1,Full autocracy,1,0,1,0,0.36762849999999997,1.0,100
+15,ARM,1995,3,Partial democracy without factionalism,1,1,0,1,-0.29985429999999996,1.0,101
+103,CYP,1995,3,Full democracy,1,0,0,0,-1.512877,1.0,101
+106,CZR,1995,3,Full democracy,1,0,0,0,-1.5475625,1.0,101
+185,ITA,1995,3,Full democracy,1,0,0,0,-1.7417185000000002,1.0,101
+46,BLR,1995,3,Partial democracy with factionalism,2,1,0,0,-1.0775589,1.0,102
+291,NTH,1995,3,Full democracy,2,0,0,0,-1.8470790000000001,1.0,102
+319,POR,1995,3,Full democracy,2,0,0,0,-1.5243057,1.0,102
+335,RUM,1995,3,Partial democracy with factionalism,2,0,0,0,-0.034376397999999996,1.0,102
+189,IVO,1996,1,Full autocracy,1,0,1,0,0.9957481,1.0,103
+228,MAA,1996,1,Full autocracy,1,0,1,0,0.7584523,1.0,103
+235,MAG,1996,1,Partial democracy without factionalism,1,0,0,0,0.85376245,1.0,103
+287,NIR,1996,1,Partial democracy with factionalism,1,1,1,0,1.1941084,1.0,103
+264,MZM,1996,1,Partial democracy without factionalism,2,0,0,0,1.2602719,1.0,104
+284,NIG,1996,1,Full autocracy,2,0,1,0,0.661992,1.0,104
+417,TOG,1996,1,Partial autocracy,2,0,0,0,0.66452044,1.0,104
+461,ZAM,1996,1,Partial democracy with factionalism,2,1,0,0,0.95974976,1.0,104
+270,NEP,1996,2,Partial democracy without factionalism,1,1,0,0,0.7584523,1.0,105
+325,PRK,1996,2,Full autocracy,1,0,0,0,-0.16939928,1.0,105
+402,TAW,1996,2,Partial democracy without factionalism,1,0,1,0,-1.5441328,1.0,105
+444,VIE,1996,2,Full autocracy,1,0,0,0,-0.038779095,1.0,105
+6,ALB,1996,3,Partial democracy with factionalism,1,1,1,0,0.64153093,1.0,106
+130,FRN,1996,3,Full democracy,1,0,1,0,-1.9325035,1.0,106
+148,GRC,1996,3,Full democracy,1,0,1,0,-1.6280143,1.0,106
+388,SWD,1996,3,Full democracy,1,0,0,0,-2.372455,1.0,106
+92,CON,1997,1,Partial democracy with factionalism,1,1,0,0,0.9858544,1.0,107
+144,GHA,1997,1,Partial autocracy,1,0,0,0,0.40462512,1.0,107
+155,GUI,1997,1,Partial autocracy,1,0,0,0,0.9716563,1.0,107
+385,SWA,1997,1,Full autocracy,1,0,0,0,0.37043375,1.0,107
+64,CAM,1997,2,Partial democracy with factionalism,1,1,1,0,0.8480173000000001,1.0,108
+200,JPN,1997,2,Full democracy,1,0,1,0,-2.2462666000000002,1.0,108
+366,SIN,1997,2,Partial autocracy,1,0,0,0,-2.2950568,1.0,108
+412,THI,1997,2,Partial democracy without factionalism,1,0,0,0,-0.34558162,1.0,108
+133,GAB,1998,1,Full autocracy,1,0,0,0,0.4484553,1.0,109
+145,GNB,1998,1,Partial democracy with factionalism,1,1,0,0,1.1416024999999999,1.0,109
+202,KEN,1998,1,Full autocracy,1,0,1,0,0.566605,1.0,109
+242,MAS,1998,1,Full democracy,1,0,0,0,-0.5512529,1.0,109
+218,LES,1998,1,Partial democracy with factionalism,2,1,0,0,0.86812055,1.0,110
+253,MLI,1998,1,Partial democracy without factionalism,2,0,0,0,1.2039728,1.0,110
+408,TAZ,1998,1,Partial autocracy,2,0,0,0,1.0262916,1.0,110
+466,ZIM,1998,1,Full autocracy,2,0,1,0,0.46482226,1.0,110
+26,BEL,1998,3,Full democracy,1,0,0,0,-2.0464017,1.0,111
+169,HUN,1998,3,Full democracy,1,0,0,0,-1.2949857,1.0,111
+435,UK,1998,3,Full democracy,1,0,0,0,-1.8475508999999999,1.0,111
+450,YGS,1998,3,Full autocracy,1,1,1,0,-0.7114005999999999,1.0,111
+125,ETI,1999,1,Partial democracy with factionalism,1,1,0,0,1.0717290000000002,1.0,112
+247,MAW,1999,1,Partial democracy without factionalism,1,0,0,0,1.0771636999999998,1.0,112
+345,SAF,1999,1,Partial democracy without factionalism,1,0,0,0,0.30997807,1.0,112
+462,ZAM,1999,1,Partial autocracy,1,0,0,0,1.0176113000000002,1.0,112
+14,ARG,1999,4,Partial democracy without factionalism,1,0,0,0,-0.6141251999999999,1.0,113
+57,BRA,1999,4,Partial democracy without factionalism,1,0,0,0,0.036462374,1.0,113
+159,GUY,1999,4,Partial democracy with factionalism,1,0,1,0,0.07902199,1.0,113
+163,HAI,1999,4,Partial democracy with factionalism,1,1,0,0,0.8270101000000001,1.0,113
+315,PNG,2000,2,Full democracy,1,0,0,0,0.5859017,1.0,114
+326,PRK,2000,2,Full autocracy,1,0,0,0,1.3452075000000001,1.0,114
+368,SOL,2000,2,Partial democracy with factionalism,1,1,0,0,-0.26570317,1.0,114
+413,THI,2000,2,Partial democracy without factionalism,1,0,0,0,-0.32411948,1.0,114
+37,BFO,2002,1,Full autocracy,1,0,0,0,1.1585104,1.0,115
+76,CHA,2002,1,Partial autocracy,1,0,0,0,1.1139265,1.0,115
+190,IVO,2002,1,Partial democracy with factionalism,1,1,1,0,1.1477941999999999,1.0,115
+467,ZIM,2002,1,Full autocracy,1,0,1,0,0.69160277,1.0,115
+74,CEN,2003,1,Partial democracy with factionalism,1,1,0,0,1.1523309,1.0,116
+93,CON,2003,1,Full autocracy,1,0,1,0,1.1811988000000002,1.0,116
+236,MAG,2003,1,Partial democracy without factionalism,1,0,0,0,1.0182016,1.0,116
+409,TAZ,2003,1,Partial democracy with factionalism,1,0,0,0,1.263116,1.0,116
+504,BHU,1956,2,Full autocracy,1,0,1,0,0.6252307,2.0,117
+528,CAM,1956,2,Transition,1,0,0,0,0.7784142,2.0,117
+553,CHN,1956,2,Full autocracy,1,1,1,0,0.034420226,2.0,117
+679,JPN,1956,2,Full democracy,1,0,1,0,-0.94891846,2.0,117
+651,IND,1956,2,Partial democracy without factionalism,2,1,1,0,0.45542806,2.0,118
+755,MYA,1956,2,Partial democracy with factionalism,2,0,1,0,0.25981688,2.0,118
+815,ROK,1956,2,Partial autocracy,2,0,0,0,-0.23218234,2.0,118
+856,SRI,1956,2,Partial democracy without factionalism,2,0,1,0,-0.47703215,2.0,118
+523,BUL,1956,3,Full autocracy,1,0,0,0,-0.30073708,2.0,119
+619,GDR,1956,3,Full autocracy,1,0,0,0,-0.74300796,2.0,119
+649,HUN,1956,3,Full autocracy,1,1,1,0,-0.35750908,2.0,119
+904,UK,1956,3,Full democracy,1,0,1,0,-1.3824108999999998,2.0,119
+468,AFG,1957,5,Full autocracy,1,0,0,0,0.66001683,2.0,120
+662,ISR,1957,5,Full democracy,1,0,1,0,-1.0218674,2.0,120
+673,JOR,1957,5,Partial autocracy,1,1,0,0,0.20349656,2.0,120
+714,LIB,1957,5,Full autocracy,1,0,0,0,0.60578203,2.0,120
+480,AUL,1958,2,Full democracy,1,0,1,0,-1.5107118,2.0,121
+588,DRV,1958,2,Full autocracy,1,0,0,0,0.40715915,2.0,121
+747,MON,1958,2,Full autocracy,1,0,0,0,0.21599703,2.0,121
+799,PKS,1958,2,Partial democracy with factionalism,1,1,1,0,0.42859334,2.0,121
+797,PHI,1958,2,Partial democracy with factionalism,2,0,0,0,-0.15127249,2.0,122
+805,PRK,1958,2,Full autocracy,2,0,0,0,-0.26521674,2.0,122
+823,RVN,1958,2,Partial autocracy,2,1,0,0,0.33995402,2.0,122
+870,TAW,1958,2,Full autocracy,2,0,1,0,-0.31413954,2.0,122
+533,CAN,1958,3,Full democracy,1,0,1,0,-1.1254181,2.0,123
+607,FRN,1958,3,Full democracy,1,1,0,0,-0.9989648999999999,2.0,123
+655,IRE,1958,3,Full democracy,1,0,0,0,-1.0156783999999999,2.0,123
+803,POR,1958,3,Full autocracy,1,0,0,0,-0.11296253,2.0,123
+658,IRN,1958,5,Full autocracy,1,0,1,0,0.5600516999999999,2.0,124
+704,LEB,1958,5,Partial democracy with factionalism,1,1,1,0,-0.31692895,2.0,124
+751,MOR,1958,5,Partial autocracy,1,0,0,0,0.5847300999999999,2.0,124
+831,SAU,1958,5,Full autocracy,1,0,1,0,0.70226115,2.0,124
+593,EGY,1959,5,Full autocracy,1,0,1,0,0.44603863,2.0,125
+660,IRQ,1959,5,Partial autocracy,1,1,0,0,0.47478000000000004,2.0,125
+785,OMA,1959,5,Full autocracy,1,0,0,0,0.69779474,2.0,125
+895,TUR,1959,5,Partial democracy with factionalism,1,0,1,0,0.5474150999999999,2.0,125
+505,BHU,1960,2,Full autocracy,1,0,1,0,0.7152089,2.0,126
+529,CAM,1960,2,Full autocracy,1,0,0,0,0.8368281999999999,2.0,126
+680,JPN,1960,2,Full democracy,1,0,1,0,-0.9797416999999999,2.0,126
+695,LAO,1960,2,Full democracy,1,1,0,1,0.53554475,2.0,126
+759,NEP,1960,2,Transition,2,1,0,0,0.68385494,2.0,127
+765,NEW,1960,2,Full democracy,2,0,1,0,-1.3679649999999999,2.0,127
+857,SRI,1960,2,Partial democracy without factionalism,2,0,1,0,-0.41805765,2.0,127
+882,THI,1960,2,Full autocracy,2,0,0,0,-0.008743225,2.0,127
+601,ETH,1961,1,Full autocracy,1,1,1,0,0.44766545,2.0,128
+631,GUI,1961,1,Full autocracy,1,0,0,0,0.81045115,2.0,128
+700,LBR,1961,1,Full autocracy,1,0,0,0,0.5620758000000001,2.0,128
+825,SAF,1961,1,Partial autocracy,1,0,1,0,-0.13846968,2.0,128
+481,AUL,1961,2,Full democracy,1,0,1,0,-1.4623938,2.0,129
+589,DRV,1961,2,Full autocracy,1,0,0,0,0.33939284,2.0,129
+652,IND,1961,2,Partial democracy without factionalism,1,0,1,0,0.5078037999999999,2.0,129
+756,MYA,1961,2,Partial democracy with factionalism,1,1,1,0,0.32859027,2.0,129
+726,MAL,1961,2,Full democracy,2,0,0,0,-0.17117698,2.0,130
+806,PRK,1961,2,Full autocracy,2,0,0,0,-0.25795588,2.0,130
+816,ROK,1961,2,Partial autocracy,2,1,0,0,-0.3483965,2.0,130
+871,TAW,1961,2,Full autocracy,2,0,1,0,-0.25795588,2.0,130
+517,BRA,1961,4,Partial democracy with factionalism,1,1,0,0,0.29706678,2.0,131
+641,HAI,1961,4,Full autocracy,1,0,0,0,0.5103945,2.0,131
+646,HON,1961,4,Partial autocracy,1,0,1,0,0.28902814,2.0,131
+739,MEX,1961,4,Full autocracy,1,0,0,0,-0.021787355,2.0,131
+536,CAO,1962,1,Full autocracy,1,0,0,0,0.15800425,2.0,132
+621,GHA,1962,1,Full autocracy,1,0,0,0,-0.085589916,2.0,132
+721,MAG,1962,1,Partial autocracy,1,0,0,0,0.38260424,2.0,132
+836,SEN,1962,1,Partial autocracy,1,1,0,0,0.11244772,2.0,132
+705,LEB,1962,5,Partial democracy with factionalism,1,0,1,0,-0.48384964,2.0,133
+786,OMA,1962,5,Full autocracy,1,0,0,0,0.53082347,2.0,133
+890,TUN,1962,5,Full autocracy,1,0,0,0,0.64606255,2.0,133
+918,YAR,1962,5,Partial autocracy,1,1,0,0,0.55724216,2.0,133
+494,BEN,1963,1,Partial democracy with factionalism,1,1,0,0,0.47496590000000005,2.0,134
+499,BFO,1963,1,Full autocracy,1,0,0,0,0.5076028,2.0,134
+542,CEN,1963,1,Full autocracy,1,0,0,0,0.3005122,2.0,134
+609,GAB,1963,1,Full autocracy,1,0,0,0,0.42530647,2.0,134
+564,CON,1963,1,Partial democracy with factionalism,2,1,0,0,0.3548104,2.0,135
+740,MLI,1963,1,Full autocracy,2,0,0,0,0.42972392,2.0,135
+776,NIR,1963,1,Full autocracy,2,0,0,0,0.26021254,2.0,135
+884,TOG,1963,1,Full autocracy,2,0,0,0,0.31606463,2.0,135
+524,BUL,1963,3,Full autocracy,1,0,1,0,-0.8920319,2.0,136
+579,CYP,1963,3,Partial democracy with factionalism,1,1,1,0,-1.149861,2.0,136
+656,IRE,1963,3,Full democracy,1,0,0,0,-1.3538051000000002,2.0,136
+781,NOR,1963,3,Full democracy,1,0,0,0,-1.8867310000000002,2.0,136
+550,CHL,1963,4,Partial democracy with factionalism,1,0,0,0,-0.10432614400000001,2.0,137
+556,COL,1963,4,Partial democracy without factionalism,1,0,1,0,0.008431753,2.0,137
+585,DOM,1963,4,Transition,1,1,1,0,-0.021395767000000003,2.0,137
+591,ECU,1963,4,Partial autocracy,1,0,1,0,-0.39075586,2.0,137
+632,GUI,1964,1,Full autocracy,1,0,0,0,0.5333675999999999,2.0,138
+701,LBR,1964,1,Full autocracy,1,0,0,0,0.3289185,2.0,138
+773,NIG,1964,1,Partial democracy with factionalism,1,1,0,0,0.17248636,2.0,138
+850,SOM,1964,1,Partial democracy without factionalism,1,0,0,0,0.6809837,2.0,138
+537,CAO,1965,1,Full autocracy,1,0,0,0,0.08799262,2.0,139
+548,CHA,1965,1,Full autocracy,1,1,1,0,0.44789886,2.0,139
+667,IVO,1965,1,Full autocracy,1,0,1,0,0.33329546,2.0,139
+826,SAF,1965,1,Partial autocracy,1,0,1,0,-0.36375543,2.0,139
+530,CAM,1965,2,Full autocracy,1,0,0,0,0.58208144,2.0,140
+748,MON,1965,2,Full autocracy,1,0,0,0,0.067027494,2.0,140
+858,SRI,1965,2,Partial democracy without factionalism,1,0,1,0,-0.69632393,2.0,140
+883,THI,1965,2,Full autocracy,1,1,0,0,-0.28843755,2.0,140
+594,EGY,1965,5,Full autocracy,1,0,1,0,0.22432093,2.0,141
+663,ISR,1965,5,Full democracy,1,0,1,0,-1.3714526000000002,2.0,141
+706,LEB,1965,5,Partial democracy with factionalism,1,0,1,0,-0.6059848000000001,2.0,141
+752,MOR,1965,5,Partial democracy with factionalism,1,1,0,0,0.33653697,2.0,141
+565,CON,1966,1,Full autocracy,1,0,0,0,0.42337236,2.0,142
+610,GAB,1966,1,Full autocracy,1,0,0,0,0.46941936,2.0,142
+837,SEN,1966,1,Full autocracy,1,0,0,0,0.04745416,2.0,142
+903,UGA,1966,1,Partial democracy without factionalism,1,1,1,1,0.16899325,2.0,142
+554,CHN,1966,2,Full autocracy,1,1,1,1,-0.23253329,2.0,143
+681,JPN,1966,2,Full democracy,1,0,1,0,-1.6572938999999998,2.0,143
+807,PRK,1966,2,Full autocracy,1,0,0,0,-0.48925313,2.0,143
+872,TAW,1966,2,Full autocracy,1,0,1,0,-0.7390443,2.0,143
+476,ARG,1966,4,Partial autocracy,1,1,1,0,-0.6123858,2.0,144
+511,BOL,1966,4,Full autocracy,1,0,0,0,0.055443547999999995,2.0,144
+571,COS,1966,4,Full democracy,1,0,0,0,-0.15758336,2.0,144
+576,CUB,1966,4,Full autocracy,1,0,0,0,-0.6403597,2.0,144
+630,GUA,1966,4,Full autocracy,2,1,1,0,0.07210329,2.0,145
+671,JAM,1966,4,Full democracy,2,0,0,0,-0.82268125,2.0,145
+771,NIC,1966,4,Full autocracy,2,0,0,0,0.2137538,2.0,145
+791,PAR,1966,4,Full autocracy,2,0,1,0,-0.34605068,2.0,145
+615,GAM,1967,1,Full democracy,1,0,0,0,0.13341811,2.0,146
+622,GHA,1967,1,Full autocracy,1,0,0,0,-0.2354528,2.0,146
+741,MLI,1967,1,Full autocracy,1,0,0,0,0.47079626,2.0,146
+841,SIE,1967,1,Partial democracy with factionalism,1,1,0,0,0.65245736,2.0,146
+482,AUL,1967,2,Full democracy,1,0,1,0,-1.7858863999999999,2.0,147
+653,IND,1967,2,Partial democracy without factionalism,1,1,1,0,0.25216994,2.0,147
+766,NEW,1967,2,Full democracy,1,0,1,0,-1.7332425999999999,2.0,147
+817,ROK,1967,2,Partial democracy with factionalism,1,0,0,0,-0.78963614,2.0,147
+628,GRC,1967,3,Partial autocracy,1,1,1,0,-1.1685117,2.0,148
+782,NOR,1967,3,Full democracy,1,0,0,0,-1.8822782,2.0,148
+804,POR,1967,3,Full autocracy,1,0,0,0,-0.5308095,2.0,148
+926,YUG,1967,3,Full autocracy,1,0,0,0,-0.42977265,2.0,148
+582,CZE,1968,3,Full autocracy,1,1,1,0,-1.4722986,2.0,149
+584,DEN,1968,3,Full democracy,1,0,0,0,-1.8146706000000001,2.0,149
+620,GFR,1968,3,Full democracy,1,0,1,0,-1.4807374,2.0,149
+854,SPN,1968,3,Full autocracy,1,0,1,0,-0.85552436,2.0,149
+518,BRA,1968,4,Full autocracy,1,0,0,0,0.04384393,2.0,150
+557,COL,1968,4,Partial democracy without factionalism,1,0,1,0,-0.053960133,2.0,150
+636,GUY,1968,4,Partial autocracy,1,0,1,0,-0.32850406,2.0,150
+789,PAN,1968,4,Partial democracy with factionalism,1,1,1,0,-0.4846648,2.0,150
+642,HAI,1968,4,Full autocracy,2,0,0,0,0.32574365,2.0,151
+793,PER,1968,4,Partial democracy with factionalism,2,1,0,0,0.10555327,2.0,151
+828,SAL,1968,4,Partial autocracy,2,0,1,0,0.13881859,2.0,151
+889,TRI,1968,4,Partial democracy with factionalism,2,0,0,0,-0.75220674,2.0,151
+611,GAB,1969,1,Full autocracy,1,0,0,0,0.5075748999999999,2.0,152
+717,MAA,1969,1,Full autocracy,1,0,1,0,0.29475638,2.0,152
+851,SOM,1969,1,Partial democracy without factionalism,1,1,0,0,0.7692815,2.0,152
+877,TAZ,1969,1,Full autocracy,1,0,0,0,0.54883635,2.0,152
+506,BHU,1969,2,Full autocracy,1,0,1,0,0.5725712,2.0,153
+682,JPN,1969,2,Full democracy,1,0,1,0,-1.8897101000000003,2.0,153
+727,MAL,1969,2,Full democracy,1,1,0,0,-0.4368867,2.0,153
+760,NEP,1969,2,Full autocracy,1,0,0,0,0.5136614,2.0,153
+798,PHI,1969,2,Partial democracy with factionalism,2,1,0,0,-0.33404112,2.0,154
+808,PRK,1969,2,Full autocracy,2,0,0,0,-0.46232527,2.0,154
+859,SRI,1969,2,Partial democracy without factionalism,2,0,1,0,-0.66120833,2.0,154
+873,TAW,1969,2,Full autocracy,2,0,1,0,-0.84628415,2.0,154
+616,GAM,1970,1,Full democracy,1,0,0,0,0.1784172,2.0,155
+709,LES,1970,1,Partial democracy without factionalism,1,1,0,0,0.21286194,2.0,155
+722,MAG,1970,1,Partial autocracy,1,0,0,0,0.32871836,2.0,155
+838,SEN,1970,1,Full autocracy,1,0,0,0,0.033998966,2.0,155
+531,CAM,1970,2,Full autocracy,1,1,0,0,0.65441346,2.0,156
+590,DRV,1970,2,Full autocracy,1,0,0,0,-0.20169953,2.0,156
+749,MON,1970,2,Full autocracy,1,0,0,0,0.11534461,2.0,156
+767,NEW,1970,2,Full democracy,1,0,1,0,-1.7028016,2.0,156
+477,ARG,1970,4,Full autocracy,1,0,1,0,-0.53698057,2.0,157
+592,ECU,1970,4,Partial democracy with factionalism,1,1,1,0,-0.3326801,2.0,157
+647,HON,1970,4,Partial autocracy,1,0,1,0,-0.09443380000000001,2.0,157
+912,VEN,1970,4,Partial democracy without factionalism,1,0,1,0,-0.26695344,2.0,157
+472,ALG,1970,5,Full autocracy,1,0,1,0,0.1644654,2.0,158
+664,ISR,1970,5,Partial democracy without factionalism,1,0,1,0,-1.4124493999999999,2.0,158
+674,JOR,1970,5,Full autocracy,1,1,0,0,-0.13596982,2.0,158
+707,LEB,1970,5,Partial democracy with factionalism,1,0,1,0,-0.67624265,2.0,158
+715,LIB,1970,5,Full autocracy,2,0,0,0,0.20257297,2.0,159
+753,MOR,1970,5,Full autocracy,2,0,0,0,0.29737678,2.0,159
+787,OMA,1970,5,Full autocracy,2,1,0,0,0.3597875,2.0,159
+832,SAU,1970,5,Full autocracy,2,0,1,0,0.25223407,2.0,159
+483,AUL,1971,2,Full democracy,1,0,0,0,-1.7273451000000002,2.0,160
+683,JPN,1971,2,Full democracy,1,0,1,0,-1.9589038,2.0,160
+761,NEP,1971,2,Full autocracy,1,0,0,0,0.46614814,2.0,160
+800,PKS,1971,2,Transition,1,1,1,0,0.31944629999999996,2.0,160
+534,CAN,1971,3,Full democracy,1,0,0,0,-1.6520407,2.0,161
+629,GRC,1971,3,Full autocracy,1,0,1,0,-1.1526796000000001,2.0,161
+802,POL,1971,3,Full autocracy,1,0,0,0,-0.8054833,2.0,161
+905,UK,1971,3,Full democracy,1,1,1,0,-1.6889843,2.0,161
+558,COL,1971,4,Partial democracy without factionalism,1,0,1,0,-0.12238646,2.0,162
+572,COS,1971,4,Full democracy,1,0,0,0,-0.30673027,2.0,162
+829,SAL,1971,4,Partial autocracy,1,0,1,0,0.10813719,2.0,162
+907,URU,1971,4,Full democracy,1,1,0,0,-0.65898085,2.0,162
+469,AFG,1971,5,Full autocracy,1,0,0,0,0.63382506,2.0,163
+690,KUW,1971,5,Full autocracy,1,0,0,0,-0.82795614,2.0,163
+891,TUN,1971,5,Full autocracy,1,0,0,0,0.35488585,2.0,163
+896,TUR,1971,5,Partial democracy without factionalism,1,1,1,0,0.24533832,2.0,163
+495,BEN,1972,1,Partial autocracy,1,1,0,0,0.54913676,2.0,164
+500,BFO,1972,1,Full autocracy,1,0,0,0,0.5359944000000001,2.0,164
+538,CAO,1972,1,Full autocracy,1,0,0,0,0.15400384,2.0,164
+543,CEN,1972,1,Full autocracy,1,0,0,0,0.35162625,2.0,164
+612,GAB,1972,1,Full autocracy,2,0,0,0,0.45850405,2.0,165
+623,GHA,1972,1,Partial autocracy,2,1,0,0,-0.18334983,2.0,165
+718,MAA,1972,1,Full autocracy,2,0,1,0,0.27266756,2.0,165
+731,MAS,1972,1,Partial democracy without factionalism,2,0,0,0,-0.50877225,2.0,165
+737,MAW,1972,1,Full autocracy,3,0,0,0,0.61571324,2.0,166
+852,SOM,1972,1,Full autocracy,3,0,0,0,0.73491424,2.0,166
+928,ZAI,1972,1,Full autocracy,3,0,1,0,0.4923623,2.0,166
+933,ZIM,1972,1,Partial autocracy,3,1,1,0,-0.27238345,2.0,166
+507,BHU,1972,2,Full autocracy,1,0,1,0,0.55917525,2.0,167
+818,ROK,1972,2,Partial democracy with factionalism,1,1,0,0,-0.78455955,2.0,167
+844,SIN,1972,2,Partial autocracy,1,0,0,0,-1.5820668,2.0,167
+874,TAW,1972,2,Full autocracy,1,0,1,0,-1.0281816,2.0,167
+687,KEN,1973,1,Full autocracy,1,0,1,0,0.19753097,2.0,168
+742,MLI,1973,1,Full autocracy,1,0,0,0,0.615792,2.0,168
+862,SWA,1973,1,Partial democracy with factionalism,1,1,0,0,0.5332328000000001,2.0,168
+885,TOG,1973,1,Full autocracy,1,0,0,0,0.4811617,2.0,168
+512,BOL,1973,4,Full autocracy,1,0,0,0,0.11808707,2.0,169
+551,CHL,1973,4,Partial democracy with factionalism,1,1,0,0,-0.21198545,2.0,169
+637,GUY,1973,4,Partial autocracy,1,0,1,0,-0.27769740000000004,2.0,169
+794,PER,1973,4,Full autocracy,1,0,0,0,0.13448879,2.0,169
+510,BNG,1974,2,Partial democracy with factionalism,1,1,1,0,0.4785823,2.0,170
+605,FJI,1974,2,Partial democracy without factionalism,1,0,0,0,-1.0347425,2.0,170
+762,NEP,1974,2,Full autocracy,1,0,0,0,0.50761193,2.0,170
+809,PRK,1974,2,Full autocracy,1,0,0,0,-0.40190637,2.0,170
+486,AUS,1974,3,Full democracy,1,0,0,0,-1.2057569,2.0,171
+493,BEL,1974,3,Full democracy,1,0,0,0,-1.498744,2.0,171
+580,CYP,1974,3,Partial democracy with factionalism,1,1,1,0,-1.704748,2.0,171
+604,FIN,1974,3,Full democracy,1,0,0,0,-1.9476943,2.0,171
+473,ALG,1975,5,Full autocracy,1,0,1,0,0.24159382,2.0,172
+489,BAH,1975,5,Full autocracy,1,0,1,0,-0.30434573,2.0,172
+691,KUW,1975,5,Full autocracy,1,0,0,0,-0.63102996,2.0,172
+708,LEB,1975,5,Partial democracy with factionalism,1,1,1,0,-0.5461041,2.0,172
+754,MOR,1975,5,Full autocracy,2,1,0,0,0.36053687,2.0,173
+892,TUN,1975,5,Full autocracy,2,0,0,0,0.35376868,2.0,173
+897,TUR,1975,5,Partial democracy without factionalism,2,0,1,0,0.41309413,2.0,173
+899,UAE,1975,5,Full autocracy,2,0,0,0,-0.5254422,2.0,173
+478,ARG,1976,4,Partial democracy with factionalism,1,1,1,0,-0.50694054,2.0,174
+586,DOM,1976,4,Partial autocracy,1,0,1,0,0.000614439,2.0,174
+672,JAM,1976,4,Full democracy,1,0,0,0,-0.8014486,2.0,174
+913,VEN,1976,4,Full democracy,1,0,1,0,-0.23675762,2.0,174
+633,GUI,1977,1,Full autocracy,1,0,0,0,0.6499384,2.0,175
+732,MAS,1977,1,Partial democracy without factionalism,1,0,0,0,-0.50133514,2.0,175
+842,SIE,1977,1,Full autocracy,1,0,1,0,0.9027669,2.0,175
+929,ZAI,1977,1,Full autocracy,1,1,1,0,0.62428755,2.0,175
+573,COS,1977,4,Full democracy,1,0,0,0,-0.66132075,2.0,176
+790,PAN,1977,4,Full autocracy,1,0,1,0,-0.6142531999999999,2.0,176
+795,PER,1977,4,Full autocracy,1,0,0,0,0.17733401,2.0,176
+830,SAL,1977,4,Partial autocracy,1,1,1,0,0.22314355,2.0,176
+659,IRN,1977,5,Full autocracy,1,1,1,0,0.26599333,2.0,177
+675,JOR,1977,5,Full autocracy,1,0,0,0,-0.10896013,2.0,177
+812,QAT,1977,5,Full autocracy,1,0,0,0,-0.17934093,2.0,177
+833,SAU,1977,5,Full autocracy,1,0,1,0,0.16158566,2.0,177
+513,BOL,1978,4,Full autocracy,1,0,0,0,0.145558,2.0,178
+519,BRA,1978,4,Partial autocracy,1,0,0,0,0.025680718999999998,2.0,178
+559,COL,1978,4,Partial democracy without factionalism,1,0,1,0,-0.189242,2.0,178
+638,GUY,1978,4,Partial autocracy,1,1,1,0,-0.25573173,2.0,178
+577,CUB,1978,4,Full autocracy,2,0,0,0,-1.2747822,2.0,179
+643,HAI,1978,4,Full autocracy,2,0,0,0,0.42957225,2.0,179
+772,NIC,1978,4,Full autocracy,2,1,0,0,0.09734298,2.0,179
+908,URU,1978,4,Full autocracy,2,0,0,0,-0.5881496999999999,2.0,179
+470,AFG,1978,5,Full autocracy,1,1,0,0,0.805741,2.0,180
+474,ALG,1978,5,Full autocracy,1,0,1,0,0.15181454,2.0,180
+893,TUN,1978,5,Full autocracy,1,0,0,0,0.18252319,2.0,180
+923,YPR,1978,5,Full autocracy,1,0,0,0,0.4008163,2.0,180
+501,BFO,1980,1,Partial democracy with factionalism,1,1,0,0,0.5835986,2.0,181
+521,BUI,1980,1,Full autocracy,1,0,1,0,0.16575623,2.0,181
+566,CON,1980,1,Full autocracy,1,0,1,0,0.58865094,2.0,181
+634,GUI,1980,1,Full autocracy,1,0,0,0,0.6336973000000001,2.0,181
+688,KEN,1980,1,Full autocracy,2,0,1,0,0.07253178,2.0,182
+702,LBR,1980,1,Full autocracy,2,0,0,0,0.6561549,2.0,182
+743,MLI,1980,1,Full autocracy,2,0,0,0,0.72694063,2.0,182
+774,NIG,1980,1,Transition,2,1,0,0,0.33145690000000005,2.0,182
+490,BAH,1980,5,Full autocracy,1,0,1,0,-0.5208192,2.0,183
+595,EGY,1980,5,Full autocracy,1,0,0,0,0.31644723,2.0,183
+661,IRQ,1980,5,Full autocracy,1,1,1,0,0.19392711,2.0,183
+676,JOR,1980,5,Full autocracy,1,0,0,0,-0.16305314,2.0,183
+692,KUW,1980,5,Full autocracy,2,0,0,0,-0.87936735,2.0,184
+716,LIB,1980,5,Full autocracy,2,0,0,0,0.011605546000000001,2.0,184
+898,TUR,1980,5,Partial democracy without factionalism,2,1,1,0,0.31171015,2.0,184
+919,YAR,1980,5,Full autocracy,2,0,0,0,0.5579468000000001,2.0,184
+544,CEN,1981,1,Full autocracy,1,0,0,0,0.45626409999999995,2.0,185
+624,GHA,1981,1,Partial democracy with factionalism,1,1,0,0,0.09138186,2.0,185
+710,LES,1981,1,Full autocracy,1,0,0,0,0.34433496,2.0,185
+839,SEN,1981,1,Partial autocracy,1,0,0,0,0.1796225,2.0,185
+834,SAU,1981,5,Full autocracy,1,0,1,0,0.0,2.0,186
+868,SYR,1981,5,Full autocracy,1,1,0,1,-0.08139133,2.0,186
+900,UAE,1981,5,Full autocracy,1,0,0,0,-0.6432025,2.0,186
+924,YPR,1981,5,Full autocracy,1,0,0,0,0.45967418,2.0,186
+552,CHL,1982,4,Full autocracy,1,0,1,0,-0.7505581,2.0,187
+574,COS,1982,4,Full democracy,1,0,0,0,-1.2315308,2.0,187
+796,PER,1982,4,Partial democracy with factionalism,1,1,0,0,0.20378718,2.0,187
+909,URU,1982,4,Full autocracy,1,0,0,0,-0.6200616,2.0,187
+561,COM,1983,1,Full autocracy,1,0,0,0,0.53989214,2.0,188
+733,MAS,1983,1,Partial democracy without factionalism,1,0,0,0,-0.6613985,2.0,188
+861,SUD,1983,1,Full autocracy,1,1,0,1,0.39878643,2.0,188
+878,TAZ,1983,1,Full autocracy,1,0,0,0,0.57074517,2.0,188
+484,AUL,1983,2,Full democracy,1,0,0,0,-1.8733394,2.0,189
+508,BHU,1983,2,Full autocracy,1,0,1,0,0.84663934,2.0,189
+654,IND,1983,2,Partial democracy with factionalism,1,1,1,0,0.5052803,2.0,189
+684,JPN,1983,2,Full democracy,1,0,1,0,-2.2158298,2.0,189
+696,LAO,1983,2,Full autocracy,2,0,1,0,0.68388784,2.0,190
+728,MAL,1983,2,Partial democracy with factionalism,2,0,0,0,-0.48954824,2.0,190
+763,NEP,1983,2,Partial autocracy,2,0,0,0,0.53810006,2.0,190
+788,PAK,1983,2,Full autocracy,2,1,1,1,0.68155956,2.0,190
+768,NEW,1983,2,Full democracy,3,0,0,0,-1.7163357,2.0,191
+810,PRK,1983,2,Full autocracy,3,0,0,0,-0.34078258,2.0,191
+860,SRI,1983,2,Partial democracy with factionalism,3,1,1,0,-0.70085734,2.0,191
+875,TAW,1983,2,Full autocracy,3,0,1,0,-1.0713378,2.0,191
+567,CON,1984,1,Full autocracy,1,0,1,0,0.749412,2.0,192
+723,MAG,1984,1,Full autocracy,1,0,0,0,0.58546174,2.0,192
+827,SAF,1984,1,Partial autocracy,1,1,1,0,-0.06303911,2.0,192
+886,TOG,1984,1,Full autocracy,1,0,0,0,0.54806566,2.0,192
+520,BRA,1984,4,Partial autocracy,1,0,0,0,0.093554765,2.0,193
+560,COL,1984,4,Partial democracy without factionalism,1,1,1,0,-0.20049207,2.0,193
+639,GUY,1984,4,Full autocracy,1,0,1,0,-0.057915274,2.0,193
+914,VEN,1984,4,Full democracy,1,0,1,0,-0.26962528,2.0,193
+496,BEN,1985,1,Full autocracy,1,0,0,0,0.79616773,2.0,194
+703,LBR,1985,1,Full autocracy,1,1,0,0,0.87713677,2.0,194
+744,MLI,1985,1,Full autocracy,1,0,0,0,0.93317574,2.0,194
+931,ZAM,1985,1,Full autocracy,1,0,0,1,0.43128362,2.0,194
+596,EGY,1986,5,Full autocracy,1,0,0,0,0.48470342,2.0,195
+677,JOR,1986,5,Full autocracy,1,0,0,0,-0.27498716,2.0,195
+869,SYR,1986,5,Full autocracy,1,0,0,1,0.0,2.0,195
+925,YPR,1986,5,Full autocracy,1,1,0,0,0.616221,2.0,195
+606,FJI,1987,2,Partial democracy without factionalism,1,1,0,0,-0.9519271999999999,2.0,196
+685,JPN,1987,2,Full democracy,1,0,1,0,-2.315232,2.0,196
+769,NEW,1987,2,Full democracy,1,0,0,0,-1.640434,2.0,196
+915,VIE,1987,2,Full autocracy,1,0,1,0,-0.15295450000000002,2.0,196
+665,ISR,1987,5,Partial democracy without factionalism,1,1,1,0,-1.7274453999999997,2.0,197
+813,QAT,1987,5,Full autocracy,1,0,0,0,-0.40098682,2.0,197
+901,UAE,1987,5,Full autocracy,1,0,0,0,-0.64581144,2.0,197
+920,YAR,1987,5,Full autocracy,1,0,0,0,0.72408205,2.0,197
+514,BOT,1988,1,Partial democracy without factionalism,1,0,0,0,-0.15261999,2.0,198
+522,BUI,1988,1,Full autocracy,1,1,1,0,0.42247644,2.0,198
+568,CON,1988,1,Full autocracy,1,0,1,0,0.82230324,2.0,198
+635,GUI,1988,1,Full autocracy,1,0,0,0,0.82552904,2.0,198
+668,IVO,1988,1,Full autocracy,2,0,1,0,0.7398343000000001,2.0,199
+711,LES,1988,1,Full autocracy,2,0,0,0,0.53300434,2.0,199
+777,NIR,1988,1,Full autocracy,2,0,1,0,0.88188195,2.0,199
+853,SOM,1988,1,Full autocracy,2,1,1,0,0.9294392,2.0,199
+555,CHN,1988,2,Full autocracy,1,1,0,1,-0.17645644,2.0,200
+845,SIN,1988,2,Partial autocracy,1,0,0,0,-1.7991396000000002,2.0,200
+848,SOL,1988,2,Partial democracy without factionalism,1,0,0,0,-0.29555613,2.0,200
+876,TAW,1988,2,Full autocracy,1,0,1,0,-0.99564433,2.0,200
+697,LAO,1989,2,Full autocracy,1,0,0,0,0.82467186,2.0,201
+729,MAL,1989,2,Partial democracy with factionalism,1,0,0,0,-0.4798634,2.0,201
+750,MON,1989,2,Full autocracy,1,0,0,0,0.51834446,2.0,201
+801,PNG,1989,2,Full democracy,1,1,1,0,0.4142316,2.0,201
+525,BUL,1989,3,Full autocracy,1,0,1,0,-0.80481684,2.0,202
+650,HUN,1989,3,Full autocracy,1,0,0,0,-1.1195853999999998,2.0,202
+666,ITA,1989,3,Full democracy,1,0,0,0,-1.6879095000000002,2.0,202
+820,RUM,1989,3,Full autocracy,1,1,1,0,0.053272467000000004,2.0,202
+502,BFO,1990,1,Full autocracy,1,0,0,0,0.82253575,2.0,203
+539,CAO,1990,1,Full autocracy,1,0,1,0,0.5679192,2.0,203
+613,GAB,1990,1,Full autocracy,1,0,0,0,0.42727482,2.0,203
+745,MLI,1990,1,Full autocracy,1,1,0,0,1.0336413,2.0,203
+738,MAW,1990,1,Full autocracy,2,0,0,0,0.95071095,2.0,204
+775,NIG,1990,1,Full autocracy,2,0,0,0,0.52511984,2.0,204
+824,RWA,1990,1,Full autocracy,2,1,1,0,0.883864,2.0,204
+863,SWA,1990,1,Full autocracy,2,0,0,0,0.2635608,2.0,204
+515,BOT,1991,1,Partial democracy without factionalism,1,0,0,0,-0.2698067,2.0,205
+545,CEN,1991,1,Full autocracy,1,0,0,0,0.7129890999999999,2.0,205
+626,GNB,1991,1,Full autocracy,1,0,0,0,0.9810796999999999,2.0,205
+689,KEN,1991,1,Full autocracy,1,1,1,1,0.2612846,2.0,205
+734,MAS,1991,1,Full democracy,2,0,0,0,-0.757285,2.0,206
+778,NIR,1991,1,Full autocracy,2,0,1,0,0.96058565,2.0,206
+843,SIE,1991,1,Full autocracy,2,1,1,0,1.23631,2.0,206
+879,TAZ,1991,1,Full autocracy,2,0,0,0,0.72373664,2.0,206
+487,AUS,1991,3,Full democracy,1,0,0,0,-1.7937655,2.0,207
+535,CAN,1991,3,Full democracy,1,0,0,0,-1.9499263,2.0,207
+581,CYP,1991,3,Full democracy,1,0,0,0,-1.549167,2.0,207
+911,USS,1991,3,Full autocracy,1,1,0,1,-0.12356122,2.0,207
+583,CZE,1991,3,Full autocracy,2,0,1,0,-1.4852183,2.0,208
+783,NOR,1991,3,Full democracy,2,0,0,0,-1.8431581999999997,2.0,208
+855,SPN,1991,3,Full democracy,2,0,0,0,-1.8558973,2.0,208
+927,YUG,1991,3,Full autocracy,2,1,1,0,-0.7530206,2.0,208
+587,DOM,1991,4,Partial democracy with factionalism,1,0,1,0,0.041222718,2.0,209
+640,GUY,1991,4,Full autocracy,1,0,1,0,0.0,2.0,209
+644,HAI,1991,4,Full autocracy,1,1,0,0,0.77672917,2.0,209
+910,URU,1991,4,Full democracy,1,0,0,0,-0.81897855,2.0,209
+475,ALG,1991,5,Partial autocracy,1,1,1,0,0.16241872,2.0,210
+491,BAH,1991,5,Full autocracy,1,0,1,0,-0.48575833,2.0,210
+693,KUW,1991,5,Full autocracy,1,0,0,0,-1.2153938,2.0,210
+835,SAU,1991,5,Full autocracy,1,0,1,0,-0.37196442,2.0,210
+497,BEN,1992,1,Transition,1,0,0,0,0.79145813,2.0,211
+569,CON,1992,1,Full autocracy,1,0,1,0,0.875813,2.0,211
+598,EQG,1992,1,Full autocracy,1,0,1,0,0.8654323,2.0,211
+840,SEN,1992,1,Partial autocracy,1,1,1,0,0.40546509999999997,2.0,211
+669,IVO,1992,1,Full autocracy,2,0,1,0,0.85669863,2.0,212
+887,TOG,1992,1,Full autocracy,2,0,0,0,0.5760095999999999,2.0,212
+930,ZAI,1992,1,Full autocracy,2,1,1,1,0.92041445,2.0,212
+934,ZIM,1992,1,Full autocracy,2,0,1,0,0.07558268,2.0,212
+597,EGY,1992,5,Full autocracy,1,1,0,0,0.41778558,2.0,213
+678,JOR,1992,5,Partial autocracy,1,0,0,0,-0.39212474,2.0,213
+894,TUN,1992,5,Full autocracy,1,0,0,0,-0.09758549,2.0,213
+902,UAE,1992,5,Full autocracy,1,0,0,0,-0.6849166999999999,2.0,213
+540,CAO,1994,1,Partial autocracy,1,0,1,0,0.68465716,2.0,214
+617,GAM,1994,1,Full democracy,1,1,0,0,0.789774,2.0,214
+719,MAA,1994,1,Full autocracy,1,0,1,0,0.7765288,2.0,214
+880,TAZ,1994,1,Full autocracy,1,0,0,1,0.93921435,2.0,214
+600,EST,1994,3,Partial democracy with factionalism,1,0,1,0,-0.9824408000000001,2.0,215
+822,RUS,1994,3,Partial democracy with factionalism,1,1,0,0,-0.6692796999999999,2.0,215
+866,SWD,1994,3,Full democracy,1,0,0,0,-2.1972245999999998,2.0,215
+906,UKR,1994,3,Partial democracy without factionalism,1,0,0,0,-0.72256106,2.0,215
+492,BAH,1994,5,Full autocracy,1,0,1,0,-0.40546509999999997,2.0,216
+694,KYR,1994,5,Full autocracy,1,0,0,0,0.33888477,2.0,216
+814,QAT,1994,5,Full autocracy,1,0,0,0,-0.3388906,2.0,216
+921,YEM,1994,5,Transition,1,1,0,0,0.7063446999999999,2.0,216
+562,COM,1995,1,Partial democracy with factionalism,1,1,0,0,0.9314444,2.0,217
+614,GAB,1995,1,Full autocracy,1,0,0,0,0.5005098,2.0,217
+724,MAG,1995,1,Partial democracy without factionalism,1,0,0,0,0.8922237,2.0,217
+888,TOG,1995,1,Partial autocracy,1,0,0,0,0.6993855,2.0,217
+479,ARM,1995,3,Partial democracy without factionalism,1,1,0,1,-0.29985429999999996,2.0,218
+488,AUS,1995,3,Full democracy,1,0,0,0,-1.8158265,2.0,218
+526,BUL,1995,3,Partial democracy with factionalism,1,0,0,0,-0.68194604,2.0,218
+608,FRN,1995,3,Full democracy,1,0,1,0,-1.8470790000000001,2.0,218
+509,BLR,1995,3,Partial democracy with factionalism,2,1,0,0,-1.0775589,2.0,219
+657,IRE,1995,3,Full democracy,2,0,0,0,-1.8793398999999997,2.0,219
+821,RUM,1995,3,Partial democracy with factionalism,2,0,0,0,-0.034376397999999996,2.0,219
+847,SLV,1995,3,Full democracy,2,0,0,0,-1.7855211,2.0,219
+503,BFO,1996,1,Full autocracy,1,0,0,0,0.98021555,2.0,220
+516,BOT,1996,1,Partial democracy without factionalism,1,0,0,0,0.044398415999999996,2.0,220
+599,EQG,1996,1,Full autocracy,1,0,1,0,0.9635021,2.0,220
+779,NIR,1996,1,Partial democracy with factionalism,1,1,1,0,1.1941084,2.0,220
+625,GHA,1996,1,Partial autocracy,2,0,0,0,0.40669134,2.0,221
+735,MAS,1996,1,Full democracy,2,0,0,0,-0.8170841,2.0,221
+864,SWA,1996,1,Full autocracy,2,0,0,0,0.35298717,2.0,221
+932,ZAM,1996,1,Partial democracy with factionalism,2,1,0,0,0.95974976,2.0,221
+485,AUL,1996,2,Full democracy,1,0,0,0,-1.9325035,2.0,222
+698,LAO,1996,2,Full autocracy,1,0,0,0,0.9625653000000001,2.0,222
+730,MAL,1996,2,Partial democracy with factionalism,1,0,0,0,-0.45708135,2.0,222
+764,NEP,1996,2,Partial democracy without factionalism,1,1,0,0,0.7584523,2.0,222
+471,ALB,1996,3,Partial democracy with factionalism,1,1,1,0,0.64153093,2.0,223
+699,LAT,1996,3,Partial democracy without factionalism,1,0,1,0,-0.9861603999999999,2.0,223
+784,NTH,1996,3,Full democracy,1,0,0,0,-1.9846892,2.0,223
+846,SLO,1996,3,Partial democracy with factionalism,1,0,1,0,-1.3466018,2.0,223
+546,CEN,1997,1,Partial democracy with factionalism,1,0,0,0,0.94362164,2.0,224
+549,CHA,1997,1,Full autocracy,1,0,1,0,0.97641146,2.0,224
+570,CON,1997,1,Partial democracy with factionalism,1,1,0,0,0.9858544,2.0,224
+881,TAZ,1997,1,Partial autocracy,1,0,0,0,0.9998537000000001,2.0,224
+532,CAM,1997,2,Partial democracy with factionalism,1,1,1,0,0.8480173000000001,2.0,225
+811,PRK,1997,2,Full autocracy,1,0,0,0,0.55997556,2.0,225
+819,ROK,1997,2,Partial democracy without factionalism,1,0,0,0,-1.541285,2.0,225
+916,VIE,1997,2,Full autocracy,1,0,0,0,-0.033293728,2.0,225
+498,BEN,1998,1,Partial democracy without factionalism,1,0,0,0,0.9011902,2.0,226
+541,CAO,1998,1,Partial autocracy,1,0,1,0,0.68666625,2.0,226
+627,GNB,1998,1,Partial democracy with factionalism,1,1,0,0,1.1416024999999999,2.0,226
+746,MLI,1998,1,Partial democracy without factionalism,1,0,0,0,1.2039728,2.0,226
+712,LES,1998,1,Partial democracy with factionalism,2,1,0,0,0.86812055,2.0,227
+757,MZM,1998,1,Partial democracy without factionalism,2,0,0,0,1.2978725,2.0,227
+758,NAM,1998,1,Partial democracy without factionalism,2,0,0,0,0.42676970000000003,2.0,227
+935,ZIM,1998,1,Full autocracy,2,0,1,0,0.46482226,2.0,227
+527,BUL,1998,3,Partial democracy with factionalism,1,0,0,0,-0.4250352,2.0,228
+575,CRO,1998,3,Full autocracy,1,0,1,0,-1.539584,2.0,228
+867,SWD,1998,3,Full democracy,1,0,0,0,-2.4619172000000002,2.0,228
+922,YGS,1998,3,Full autocracy,1,1,1,0,-0.7114005999999999,2.0,228
+602,ETI,1999,1,Partial democracy with factionalism,1,1,0,0,1.0717290000000002,2.0,229
+618,GAM,1999,1,Full autocracy,1,0,0,0,0.7975789000000001,2.0,229
+720,MAA,1999,1,Full autocracy,1,0,1,0,0.78434956,2.0,229
+865,SWA,1999,1,Full autocracy,1,0,0,0,0.46967200000000003,2.0,229
+578,CUB,1999,4,Full autocracy,1,0,0,0,-1.6281801,2.0,230
+645,HAI,1999,4,Partial democracy with factionalism,1,1,0,0,0.8270101000000001,2.0,230
+648,HON,1999,4,Partial democracy without factionalism,1,0,1,0,-0.13923158,2.0,230
+792,PAR,1999,4,Partial democracy with factionalism,1,0,0,0,-0.08870077,2.0,230
+686,JPN,2000,2,Full democracy,1,0,1,0,-2.1804175,2.0,231
+770,NEW,2000,2,Full democracy,1,0,0,0,-1.8619636999999998,2.0,231
+849,SOL,2000,2,Partial democracy with factionalism,1,1,0,0,-0.26570317,2.0,231
+917,VIE,2000,2,Full autocracy,1,0,0,0,0.022347299999999997,2.0,231
+670,IVO,2002,1,Partial democracy with factionalism,1,1,1,0,1.1477941999999999,2.0,232
+713,LES,2002,1,Transition,1,0,0,0,1.013843,2.0,232
+725,MAG,2002,1,Partial democracy without factionalism,1,0,0,0,0.968016,2.0,232
+780,NIR,2002,1,Partial democracy without factionalism,1,0,0,0,1.362874,2.0,232
+547,CEN,2003,1,Partial democracy with factionalism,1,1,0,0,1.1523309,2.0,233
+563,COM,2003,1,Partial autocracy,1,0,0,0,1.0241646999999998,2.0,233
+603,ETI,2003,1,Partial democracy with factionalism,1,0,0,0,1.2499207,2.0,233
+736,MAS,2003,1,Full democracy,1,0,0,0,-0.56293255,2.0,233
+969,BHU,1956,2,Full autocracy,1,0,1,0,0.6252307,3.0,234
+1016,CHN,1956,2,Full autocracy,1,1,1,0,0.034420226,3.0,234
+1043,DRV,1956,2,Full autocracy,1,0,0,0,0.4009152,3.0,234
+1145,JPN,1956,2,Full democracy,1,0,1,0,-0.94891846,3.0,234
+1104,IND,1956,2,Partial democracy without factionalism,2,1,1,0,0.45542806,3.0,235
+1229,NEW,1956,2,Full democracy,2,0,1,0,-1.4341122,3.0,235
+1288,ROK,1956,2,Partial autocracy,2,0,0,0,-0.23218234,3.0,235
+1344,TAW,1956,2,Full autocracy,2,0,1,0,-0.33142662,3.0,235
+960,BEL,1956,3,Full democracy,1,0,0,0,-0.92655724,3.0,236
+994,CAN,1956,3,Full democracy,1,0,1,0,-1.1891673,3.0,236
+1081,GRC,1956,3,Partial autocracy,1,0,1,0,-0.7741631,3.0,236
+1102,HUN,1956,3,Full autocracy,1,1,1,0,-0.35750908,3.0,236
+936,AFG,1957,5,Full autocracy,1,0,0,0,0.66001683,3.0,237
+1117,ISR,1957,5,Full democracy,1,0,1,0,-1.0218674,3.0,237
+1139,JOR,1957,5,Partial autocracy,1,1,0,0,0.20349656,3.0,237
+1308,SAU,1957,5,Full autocracy,1,0,1,0,0.6848443000000001,3.0,237
+950,AUL,1958,2,Full democracy,1,0,1,0,-1.5107118,3.0,238
+989,CAM,1958,2,Full autocracy,1,0,0,0,0.8051489000000001,3.0,238
+1208,MON,1958,2,Full autocracy,1,0,0,0,0.21599703,3.0,238
+1272,PKS,1958,2,Partial democracy with factionalism,1,1,1,0,0.42859334,3.0,238
+1269,PHI,1958,2,Partial democracy with factionalism,2,0,0,0,-0.15127249,3.0,239
+1282,PRK,1958,2,Full autocracy,2,0,0,0,-0.26521674,3.0,239
+1297,RVN,1958,2,Partial autocracy,2,1,0,0,0.33995402,3.0,239
+1356,THI,1958,2,Partial autocracy,2,0,0,0,-0.040482952999999995,3.0,239
+957,AUS,1958,3,Full democracy,1,0,0,0,-0.81987137,3.0,240
+1058,FRN,1958,3,Full democracy,1,1,0,0,-0.9989648999999999,3.0,240
+1247,NOR,1958,3,Full democracy,1,0,0,0,-1.5340228,3.0,240
+1250,NTH,1958,3,Full democracy,1,0,0,0,-1.5823413999999998,3.0,240
+1111,IRN,1958,5,Full autocracy,1,0,1,0,0.5600516999999999,3.0,241
+1167,LEB,1958,5,Partial democracy with factionalism,1,1,1,0,-0.31692895,3.0,241
+1214,MOR,1958,5,Partial autocracy,1,0,0,0,0.5847300999999999,3.0,241
+1254,OMA,1958,5,Full autocracy,1,0,0,0,0.7052808,3.0,241
+1047,EGY,1959,5,Full autocracy,1,0,1,0,0.44603863,3.0,242
+1115,IRQ,1959,5,Partial autocracy,1,1,0,0,0.47478000000000004,3.0,242
+1172,LIB,1959,5,Full autocracy,1,0,0,0,0.61680704,3.0,242
+1372,TUR,1959,5,Partial democracy with factionalism,1,0,1,0,0.5474150999999999,3.0,242
+970,BHU,1960,2,Full autocracy,1,0,1,0,0.7152089,3.0,243
+1044,DRV,1960,2,Full autocracy,1,0,0,0,0.39268887,3.0,243
+1146,JPN,1960,2,Full democracy,1,0,1,0,-0.9797416999999999,3.0,243
+1161,LAO,1960,2,Full democracy,1,1,0,1,0.53554475,3.0,243
+1188,MAL,1960,2,Full democracy,2,0,0,0,-0.13742517,3.0,244
+1224,NEP,1960,2,Transition,2,1,0,0,0.68385494,3.0,244
+1230,NEW,1960,2,Full democracy,2,0,1,0,-1.3679649999999999,3.0,244
+1345,TAW,1960,2,Full autocracy,2,0,1,0,-0.19260274,3.0,244
+1054,ETH,1961,1,Full autocracy,1,1,1,0,0.44766545,3.0,245
+1086,GUI,1961,1,Full autocracy,1,0,0,0,0.81045115,3.0,245
+1164,LBR,1961,1,Full autocracy,1,0,0,0,0.5620758000000001,3.0,245
+1302,SAF,1961,1,Partial autocracy,1,0,1,0,-0.13846968,3.0,245
+951,AUL,1961,2,Full democracy,1,0,1,0,-1.4623938,3.0,246
+1105,IND,1961,2,Partial democracy without factionalism,1,0,1,0,0.5078037999999999,3.0,246
+1209,MON,1961,2,Full autocracy,1,0,0,0,0.259542,3.0,246
+1218,MYA,1961,2,Partial democracy with factionalism,1,1,1,0,0.32859027,3.0,246
+1270,PHI,1961,2,Partial democracy with factionalism,2,0,0,0,-0.14094798,3.0,247
+1273,PKS,1961,2,Full autocracy,2,0,1,0,0.47013829999999995,3.0,247
+1289,ROK,1961,2,Partial autocracy,2,1,0,0,-0.3483965,3.0,247
+1331,SRI,1961,2,Partial democracy without factionalism,2,0,1,0,-0.44783732,3.0,247
+978,BOL,1961,4,Partial autocracy,1,0,0,0,0.2612031,3.0,248
+983,BRA,1961,4,Partial democracy with factionalism,1,1,0,0,0.29706678,3.0,248
+1084,GUA,1961,4,Full autocracy,1,0,1,0,0.30583528,3.0,248
+1199,MEX,1961,4,Full autocracy,1,0,0,0,-0.021787355,3.0,248
+996,CAO,1962,1,Full autocracy,1,0,0,0,0.15800425,3.0,249
+1073,GHA,1962,1,Full autocracy,1,0,0,0,-0.085589916,3.0,249
+1312,SEN,1962,1,Partial autocracy,1,1,0,0,0.11244772,3.0,249
+1358,TOG,1962,1,Full autocracy,1,0,0,0,0.44162953,3.0,249
+1112,IRN,1962,5,Full autocracy,1,0,1,0,0.40372503,3.0,250
+1118,ISR,1962,5,Full democracy,1,0,1,0,-1.2242496999999999,3.0,250
+1255,OMA,1962,5,Full autocracy,1,0,0,0,0.53082347,3.0,250
+1389,YAR,1962,5,Partial autocracy,1,1,0,0,0.55724216,3.0,250
+962,BEN,1963,1,Partial democracy with factionalism,1,1,0,0,0.47496590000000005,3.0,251
+964,BFO,1963,1,Full autocracy,1,0,0,0,0.5076028,3.0,251
+1005,CEN,1963,1,Full autocracy,1,0,0,0,0.3005122,3.0,251
+1064,GAB,1963,1,Full autocracy,1,0,0,0,0.42530647,3.0,251
+1025,CON,1963,1,Partial democracy with factionalism,2,1,0,0,0.3548104,3.0,252
+1128,IVO,1963,1,Full autocracy,2,0,1,0,0.28471407,3.0,252
+1177,MAA,1963,1,Full autocracy,2,0,1,0,0.17722817,3.0,252
+1242,NIR,1963,1,Full autocracy,2,0,0,0,0.26021254,3.0,252
+1035,CYP,1963,3,Partial democracy with factionalism,1,1,1,0,-1.149861,3.0,253
+1056,FIN,1963,3,Full democracy,1,0,0,0,-1.7365787,3.0,253
+1059,FRN,1963,3,Full democracy,1,0,0,0,-1.5250407,3.0,253
+1072,GDR,1963,3,Full autocracy,1,0,0,0,-1.2540339,3.0,253
+1040,DOM,1963,4,Transition,1,1,1,0,-0.021395767000000003,3.0,254
+1260,PAR,1963,4,Full autocracy,1,0,1,0,-0.351487,3.0,254
+1384,URU,1963,4,Full democracy,1,0,0,0,-0.8838014000000001,3.0,254
+1387,VEN,1963,4,Partial democracy without factionalism,1,0,1,0,-0.19785221,3.0,254
+1087,GUI,1964,1,Full autocracy,1,0,0,0,0.5333675999999999,3.0,255
+1204,MLI,1964,1,Full autocracy,1,0,0,0,0.44275758,3.0,255
+1237,NIG,1964,1,Partial democracy with factionalism,1,1,0,0,0.17248636,3.0,255
+1327,SOM,1964,1,Partial democracy without factionalism,1,0,0,0,0.6809837,3.0,255
+997,CAO,1965,1,Full autocracy,1,0,0,0,0.08799262,3.0,256
+1012,CHA,1965,1,Full autocracy,1,1,1,0,0.44789886,3.0,256
+1182,MAG,1965,1,Partial autocracy,1,0,0,0,0.30964127,3.0,256
+1351,TAZ,1965,1,Full autocracy,1,0,0,0,0.53756064,3.0,256
+952,AUL,1965,2,Full democracy,1,0,1,0,-1.7281276,3.0,257
+990,CAM,1965,2,Full autocracy,1,0,0,0,0.58208144,3.0,257
+1346,TAW,1965,2,Full autocracy,1,0,1,0,-0.6623618,3.0,257
+1357,THI,1965,2,Full autocracy,1,1,0,0,-0.28843755,3.0,257
+1119,ISR,1965,5,Full democracy,1,0,1,0,-1.3714526000000002,3.0,258
+1155,KUW,1965,5,Full autocracy,1,0,0,0,-0.44097725,3.0,258
+1173,LIB,1965,5,Full autocracy,1,0,0,0,0.30631128,3.0,258
+1215,MOR,1965,5,Partial democracy with factionalism,1,1,0,0,0.33653697,3.0,258
+965,BFO,1966,1,Full autocracy,1,0,0,0,0.55560243,3.0,259
+1065,GAB,1966,1,Full autocracy,1,0,0,0,0.46941936,3.0,259
+1359,TOG,1966,1,Full autocracy,1,0,0,0,0.3897662,3.0,259
+1380,UGA,1966,1,Partial democracy without factionalism,1,1,1,1,0.16899325,3.0,259
+1017,CHN,1966,2,Full autocracy,1,1,1,1,-0.23253329,3.0,260
+1231,NEW,1966,2,Full democracy,1,0,1,0,-1.7231405,3.0,260
+1274,PKS,1966,2,Partial democracy with factionalism,1,0,1,0,0.29698446,3.0,260
+1332,SRI,1966,2,Partial democracy without factionalism,1,0,1,0,-0.6838448,3.0,260
+945,ARG,1966,4,Partial autocracy,1,1,1,0,-0.6123858,3.0,261
+1019,COL,1966,4,Partial democracy without factionalism,1,0,1,0,-0.022685284,3.0,261
+1029,COS,1966,4,Full democracy,1,0,0,0,-0.15758336,3.0,261
+1033,CUB,1966,4,Full autocracy,1,0,0,0,-0.6403597,3.0,261
+1085,GUA,1966,4,Full autocracy,2,1,1,0,0.07210329,3.0,262
+1135,JAM,1966,4,Full democracy,2,0,0,0,-0.82268125,3.0,262
+1200,MEX,1966,4,Full autocracy,2,0,0,0,-0.28209025,3.0,262
+1261,PAR,1966,4,Full autocracy,2,0,1,0,-0.34605068,3.0,262
+1074,GHA,1967,1,Full autocracy,1,0,0,0,-0.2354528,3.0,263
+1303,SAF,1967,1,Partial autocracy,1,0,1,0,-0.39017704,3.0,263
+1313,SEN,1967,1,Full autocracy,1,0,0,0,0.004069642,3.0,263
+1316,SIE,1967,1,Partial democracy with factionalism,1,1,0,0,0.65245736,3.0,263
+971,BHU,1967,2,Full autocracy,1,0,1,0,0.4770022,3.0,264
+1106,IND,1967,2,Partial democracy without factionalism,1,1,1,0,0.25216994,3.0,264
+1225,NEP,1967,2,Full autocracy,1,0,0,0,0.4274242999999999,3.0,264
+1290,ROK,1967,2,Partial democracy with factionalism,1,0,0,0,-0.78963614,3.0,264
+988,BUL,1967,3,Full autocracy,1,0,1,0,-0.7698726,3.0,265
+1060,FRN,1967,3,Full democracy,1,0,1,0,-1.6171705,3.0,265
+1082,GRC,1967,3,Partial autocracy,1,1,1,0,-1.1685117,3.0,265
+1251,NTH,1967,3,Full democracy,1,0,0,0,-2.036429,3.0,265
+1037,CZE,1968,3,Full autocracy,1,1,1,0,-1.4722986,3.0,266
+1125,ITA,1968,3,Full democracy,1,0,0,0,-1.0952445,3.0,266
+1248,NOR,1968,3,Full democracy,1,0,0,0,-1.9609627,3.0,266
+1277,POL,1968,3,Full autocracy,1,0,0,0,-0.7200108000000001,3.0,266
+1014,CHL,1968,4,Partial democracy with factionalism,1,0,0,0,-0.05192761,3.0,267
+1093,GUY,1968,4,Partial autocracy,1,0,1,0,-0.32850406,3.0,267
+1096,HAI,1968,4,Full autocracy,1,0,0,0,0.32574365,3.0,267
+1259,PAN,1968,4,Partial democracy with factionalism,1,1,1,0,-0.4846648,3.0,267
+1100,HON,1968,4,Partial autocracy,2,0,1,0,-0.037814472,3.0,268
+1235,NIC,1968,4,Full autocracy,2,0,0,0,0.20062688,3.0,268
+1266,PER,1968,4,Partial democracy with factionalism,2,1,0,0,0.10555327,3.0,268
+1388,VEN,1968,4,Partial democracy without factionalism,2,0,1,0,-0.21474518,3.0,268
+1178,MAA,1969,1,Full autocracy,1,0,1,0,0.29475638,3.0,269
+1183,MAG,1969,1,Partial autocracy,1,0,0,0,0.3808232,3.0,269
+1195,MAW,1969,1,Full autocracy,1,0,0,0,0.6303651,3.0,269
+1328,SOM,1969,1,Partial democracy without factionalism,1,1,0,0,0.7692815,3.0,269
+953,AUL,1969,2,Full democracy,1,0,0,0,-1.6841702,3.0,270
+1189,MAL,1969,2,Full democracy,1,1,0,0,-0.4368867,3.0,270
+1232,NEW,1969,2,Full democracy,1,0,1,0,-1.7006994,3.0,270
+1283,PRK,1969,2,Full autocracy,1,0,0,0,-0.46232527,3.0,270
+1271,PHI,1969,2,Partial democracy with factionalism,2,1,0,0,-0.33404112,3.0,271
+1318,SIN,1969,2,Partial autocracy,2,0,0,0,-1.3721955,3.0,271
+1333,SRI,1969,2,Partial democracy without factionalism,2,0,1,0,-0.66120833,3.0,271
+1347,TAW,1969,2,Full autocracy,2,0,1,0,-0.84628415,3.0,271
+1170,LES,1970,1,Partial democracy without factionalism,1,1,0,0,0.21286194,3.0,272
+1191,MAS,1970,1,Partial democracy without factionalism,1,0,0,0,-0.38282990000000006,3.0,272
+1205,MLI,1970,1,Full autocracy,1,0,0,0,0.52138823,3.0,272
+1243,NIR,1970,1,Full autocracy,1,0,0,0,0.36656258,3.0,272
+972,BHU,1970,2,Full autocracy,1,0,1,0,0.52369905,3.0,273
+991,CAM,1970,2,Full autocracy,1,1,0,0,0.65441346,3.0,273
+1147,JPN,1970,2,Full democracy,1,0,1,0,-1.9034723000000002,3.0,273
+1210,MON,1970,2,Full autocracy,1,0,0,0,0.11534461,3.0,273
+946,ARG,1970,4,Full autocracy,1,0,1,0,-0.53698057,3.0,274
+1046,ECU,1970,4,Partial democracy with factionalism,1,1,1,0,-0.3326801,3.0,274
+1262,PAR,1970,4,Full autocracy,1,0,1,0,-0.4341232,3.0,274
+1306,SAL,1970,4,Partial autocracy,1,0,1,0,0.10924968,3.0,274
+937,AFG,1970,5,Full autocracy,1,0,0,0,0.61780196,3.0,275
+941,ALG,1970,5,Full autocracy,1,0,1,0,0.1644654,3.0,275
+1113,IRN,1970,5,Full autocracy,1,0,1,0,0.23774658,3.0,275
+1140,JOR,1970,5,Full autocracy,1,1,0,0,-0.13596982,3.0,275
+1168,LEB,1970,5,Partial democracy with factionalism,2,0,1,0,-0.67624265,3.0,276
+1216,MOR,1970,5,Full autocracy,2,0,0,0,0.29737678,3.0,276
+1256,OMA,1970,5,Full autocracy,2,1,0,0,0.3597875,3.0,276
+1341,SYR,1970,5,Full autocracy,2,0,0,0,0.007279819,3.0,276
+954,AUL,1971,2,Full democracy,1,0,0,0,-1.7273451000000002,3.0,277
+1226,NEP,1971,2,Full autocracy,1,0,0,0,0.46614814,3.0,277
+1275,PKS,1971,2,Transition,1,1,1,0,0.31944629999999996,3.0,277
+1319,SIN,1971,2,Partial autocracy,1,0,0,0,-1.5676233999999998,3.0,277
+1061,FRN,1971,3,Full democracy,1,0,0,0,-1.6366162,3.0,278
+1109,IRE,1971,3,Full democracy,1,0,0,0,-1.5868547,3.0,278
+1278,POL,1971,3,Full autocracy,1,0,0,0,-0.8054833,3.0,278
+1381,UK,1971,3,Full democracy,1,1,1,0,-1.6889843,3.0,278
+1041,DOM,1971,4,Partial autocracy,1,0,1,0,-0.063545965,3.0,279
+1136,JAM,1971,4,Full democracy,1,0,0,0,-0.8864523999999999,3.0,279
+1267,PER,1971,4,Full autocracy,1,0,0,0,0.07736553,3.0,279
+1385,URU,1971,4,Full democracy,1,1,0,0,-0.65898085,3.0,279
+1048,EGY,1971,5,Full autocracy,1,0,1,0,0.21776666,3.0,280
+1120,ISR,1971,5,Partial democracy without factionalism,1,0,1,0,-1.4340919,3.0,280
+1156,KUW,1971,5,Full autocracy,1,0,0,0,-0.82795614,3.0,280
+1373,TUR,1971,5,Partial democracy without factionalism,1,1,1,0,0.24533832,3.0,280
+963,BEN,1972,1,Partial autocracy,1,1,0,0,0.54913676,3.0,281
+1006,CEN,1972,1,Full autocracy,1,0,0,0,0.35162625,3.0,281
+1026,CON,1972,1,Full autocracy,1,0,1,0,0.4532923,3.0,281
+1069,GAM,1972,1,Full democracy,1,0,0,0,0.21302055,3.0,281
+1075,GHA,1972,1,Partial autocracy,2,1,0,0,-0.18334983,3.0,282
+1088,GUI,1972,1,Full autocracy,2,0,0,0,0.55564374,3.0,282
+1129,IVO,1972,1,Full autocracy,2,0,1,0,0.38504565,3.0,282
+1184,MAG,1972,1,Partial autocracy,2,0,0,0,0.35811275,3.0,282
+1298,RWA,1972,1,Partial autocracy,3,0,1,0,0.50360537,3.0,283
+1304,SAF,1972,1,Partial autocracy,3,0,1,0,-0.33359867,3.0,283
+1360,TOG,1972,1,Full autocracy,3,0,0,0,0.44608152,3.0,283
+1402,ZIM,1972,1,Partial autocracy,3,1,1,0,-0.27238345,3.0,283
+1045,DRV,1972,2,Full autocracy,1,0,0,0,-0.19827549,3.0,284
+1284,PRK,1972,2,Full autocracy,1,0,0,0,-0.5070643,3.0,284
+1291,ROK,1972,2,Partial democracy with factionalism,1,1,0,0,-0.78455955,3.0,284
+1348,TAW,1972,2,Full autocracy,1,0,1,0,-1.0281816,3.0,284
+1066,GAB,1973,1,Full autocracy,1,0,0,0,0.48521304,3.0,285
+1196,MAW,1973,1,Full autocracy,1,0,0,0,0.66876924,3.0,285
+1244,NIR,1973,1,Full autocracy,1,0,0,0,0.46685144,3.0,285
+1336,SWA,1973,1,Partial democracy with factionalism,1,1,0,0,0.5332328000000001,3.0,285
+984,BRA,1973,4,Full autocracy,1,0,0,0,0.047564402,3.0,286
+1015,CHL,1973,4,Partial democracy with factionalism,1,1,0,0,-0.21198545,3.0,286
+1030,COS,1973,4,Full democracy,1,0,0,0,-0.38595229999999997,3.0,286
+1365,TRI,1973,4,Partial democracy with factionalism,1,0,0,0,-0.73506445,3.0,286
+955,AUL,1974,2,Full democracy,1,0,0,0,-1.6171921,3.0,287
+976,BNG,1974,2,Partial democracy with factionalism,1,1,1,0,0.4785823,3.0,287
+1107,IND,1974,2,Partial democracy without factionalism,1,0,1,0,0.41315973,3.0,287
+1320,SIN,1974,2,Partial autocracy,1,0,0,0,-1.4881619,3.0,287
+939,ALB,1974,3,Full autocracy,1,0,0,0,0.53443074,3.0,288
+1036,CYP,1974,3,Partial democracy with factionalism,1,1,1,0,-1.704748,3.0,288
+1062,FRN,1974,3,Full democracy,1,0,0,0,-1.6600122,3.0,288
+1252,NTH,1974,3,Full democracy,1,0,0,0,-1.9730120999999998,3.0,288
+959,BAH,1975,5,Full autocracy,1,0,1,0,-0.30434573,3.0,289
+1049,EGY,1975,5,Full autocracy,1,0,0,0,0.34267166,3.0,289
+1121,ISR,1975,5,Partial democracy without factionalism,1,0,1,0,-1.2797253999999998,3.0,289
+1169,LEB,1975,5,Partial democracy with factionalism,1,1,1,0,-0.5461041,3.0,289
+1217,MOR,1975,5,Full autocracy,2,1,0,0,0.36053687,3.0,290
+1286,QAT,1975,5,Full autocracy,2,0,0,0,-0.12202418,3.0,290
+1369,TUN,1975,5,Full autocracy,2,0,0,0,0.35376868,3.0,290
+1375,UAE,1975,5,Full autocracy,2,0,0,0,-0.5254422,3.0,290
+947,ARG,1976,4,Partial democracy with factionalism,1,1,1,0,-0.50694054,3.0,291
+1031,COS,1976,4,Full democracy,1,0,0,0,-0.67789835,3.0,291
+1137,JAM,1976,4,Full democracy,1,0,0,0,-0.8014486,3.0,291
+1263,PAR,1976,4,Full autocracy,1,0,1,0,-0.3383178,3.0,291
+998,CAO,1977,1,Full autocracy,1,0,0,0,0.299736,3.0,292
+1165,LBR,1977,1,Full autocracy,1,0,0,0,0.641461,3.0,292
+1361,TOG,1977,1,Full autocracy,1,0,0,0,0.4950299,3.0,292
+1398,ZAI,1977,1,Full autocracy,1,1,1,0,0.62428755,3.0,292
+1097,HAI,1977,4,Full autocracy,1,0,0,0,0.4618862,3.0,293
+1101,HON,1977,4,Partial autocracy,1,0,0,0,-0.1131297,3.0,293
+1201,MEX,1977,4,Full autocracy,1,0,0,0,-0.28437080000000003,3.0,293
+1307,SAL,1977,4,Partial autocracy,1,1,1,0,0.22314355,3.0,293
+942,ALG,1977,5,Full autocracy,1,0,1,0,0.20911527,3.0,294
+1114,IRN,1977,5,Full autocracy,1,1,1,0,0.26599333,3.0,294
+1141,JOR,1977,5,Full autocracy,1,0,0,0,-0.10896013,3.0,294
+1394,YPR,1977,5,Full autocracy,1,0,0,0,0.44926775,3.0,294
+979,BOL,1978,4,Full autocracy,1,0,0,0,0.145558,3.0,295
+985,BRA,1978,4,Partial autocracy,1,0,0,0,0.025680718999999998,3.0,295
+1020,COL,1978,4,Partial democracy without factionalism,1,0,1,0,-0.189242,3.0,295
+1094,GUY,1978,4,Partial autocracy,1,1,1,0,-0.25573173,3.0,295
+1034,CUB,1978,4,Full autocracy,2,0,0,0,-1.2747822,3.0,296
+1042,DOM,1978,4,Partial autocracy,2,0,1,0,-0.06047339400000001,3.0,296
+1236,NIC,1978,4,Full autocracy,2,1,0,0,0.09734298,3.0,296
+1366,TRI,1978,4,Partial democracy with factionalism,2,0,0,0,-0.7691649,3.0,296
+938,AFG,1978,5,Full autocracy,1,1,0,0,0.805741,3.0,297
+1122,ISR,1978,5,Partial democracy without factionalism,1,0,1,0,-1.4188826,3.0,297
+1309,SAU,1978,5,Full autocracy,1,0,1,0,0.07402155,3.0,297
+1390,YAR,1978,5,Full autocracy,1,0,0,0,0.5291682,3.0,297
+966,BFO,1980,1,Partial democracy with factionalism,1,1,0,0,0.5835986,3.0,298
+999,CAO,1980,1,Full autocracy,1,0,0,0,0.31360766,3.0,298
+1007,CEN,1980,1,Full autocracy,1,0,0,0,0.43737593,3.0,298
+1151,KEN,1980,1,Full autocracy,1,0,1,0,0.07253178,3.0,298
+1238,NIG,1980,1,Transition,2,1,0,0,0.33145690000000005,3.0,299
+1299,RWA,1980,1,Full autocracy,2,0,1,0,0.6260979,3.0,299
+1352,TAZ,1980,1,Full autocracy,2,0,0,0,0.49355674,3.0,299
+1362,TOG,1980,1,Full autocracy,2,0,0,0,0.45068726,3.0,299
+943,ALG,1980,5,Full autocracy,1,0,1,0,0.15803418,3.0,300
+1116,IRQ,1980,5,Full autocracy,1,1,1,0,0.19392711,3.0,300
+1142,JOR,1980,5,Full autocracy,1,0,0,0,-0.16305314,3.0,300
+1157,KUW,1980,5,Full autocracy,1,0,0,0,-0.87936735,3.0,300
+1174,LIB,1980,5,Full autocracy,2,0,0,0,0.011605546000000001,3.0,301
+1370,TUN,1980,5,Full autocracy,2,0,0,0,0.12995823,3.0,301
+1374,TUR,1980,5,Partial democracy without factionalism,2,1,1,0,0.31171015,3.0,301
+1376,UAE,1980,5,Full autocracy,2,0,0,0,-0.6413352,3.0,301
+1022,COM,1981,1,Full autocracy,1,0,0,0,0.43468365,3.0,302
+1076,GHA,1981,1,Partial democracy with factionalism,1,1,0,0,0.09138186,3.0,302
+1130,IVO,1981,1,Full autocracy,1,0,1,0,0.53742296,3.0,302
+1185,MAG,1981,1,Full autocracy,1,0,0,0,0.46392047,3.0,302
+1123,ISR,1981,5,Partial democracy without factionalism,1,0,1,0,-1.4735508,3.0,303
+1310,SAU,1981,5,Full autocracy,1,0,1,0,0.0,3.0,303
+1342,SYR,1981,5,Full autocracy,1,1,0,1,-0.08139133,3.0,303
+1395,YPR,1981,5,Full autocracy,1,0,0,0,0.45967418,3.0,303
+1032,COS,1982,4,Full democracy,1,0,0,0,-1.2315308,3.0,304
+1138,JAM,1982,4,Full democracy,1,0,0,0,-0.82933897,3.0,304
+1264,PAR,1982,4,Full autocracy,1,0,1,0,-0.20577031,3.0,304
+1268,PER,1982,4,Partial democracy with factionalism,1,1,0,0,0.20378718,3.0,304
+1079,GNB,1983,1,Full autocracy,1,0,0,0,0.8138274999999999,3.0,305
+1152,KEN,1983,1,Full autocracy,1,0,1,0,0.06970946,3.0,305
+1314,SEN,1983,1,Partial autocracy,1,0,0,0,0.27259183,3.0,305
+1335,SUD,1983,1,Full autocracy,1,1,0,1,0.39878643,3.0,305
+1108,IND,1983,2,Partial democracy with factionalism,1,1,1,0,0.5052803,3.0,306
+1148,JPN,1983,2,Full democracy,1,0,1,0,-2.2158298,3.0,306
+1211,MON,1983,2,Full autocracy,1,0,0,0,0.46461278,3.0,306
+1227,NEP,1983,2,Partial autocracy,1,0,0,0,0.53810006,3.0,306
+1233,NEW,1983,2,Full democracy,2,0,0,0,-1.7163357,3.0,307
+1258,PAK,1983,2,Full autocracy,2,1,1,1,0.68155956,3.0,307
+1285,PRK,1983,2,Full autocracy,2,0,0,0,-0.34078258,3.0,307
+1292,ROK,1983,2,Full autocracy,2,0,0,0,-0.7881501999999999,3.0,307
+1321,SIN,1983,2,Partial autocracy,3,0,0,0,-1.7780293000000003,3.0,308
+1324,SOL,1983,2,Partial democracy without factionalism,3,0,0,0,-0.31688046,3.0,308
+1334,SRI,1983,2,Partial democracy with factionalism,3,1,1,0,-0.70085734,3.0,308
+1349,TAW,1983,2,Full autocracy,3,0,1,0,-1.0713378,3.0,308
+1000,CAO,1984,1,Full autocracy,1,0,0,0,0.4916723,3.0,309
+1131,IVO,1984,1,Full autocracy,1,0,1,0,0.67366606,3.0,309
+1300,RWA,1984,1,Full autocracy,1,0,1,0,0.7689762,3.0,309
+1305,SAF,1984,1,Partial autocracy,1,1,1,0,-0.06303911,3.0,309
+980,BOL,1984,4,Partial democracy with factionalism,1,0,0,0,0.33784932,3.0,310
+1021,COL,1984,4,Partial democracy without factionalism,1,1,1,0,-0.20049207,3.0,310
+1202,MEX,1984,4,Partial autocracy,1,0,0,0,-0.2802074,3.0,310
+1367,TRI,1984,4,Partial democracy with factionalism,1,0,0,0,-0.75961685,3.0,310
+1077,GHA,1985,1,Full autocracy,1,0,0,0,0.3054695,3.0,311
+1166,LBR,1985,1,Full autocracy,1,1,0,0,0.87713677,3.0,311
+1179,MAA,1985,1,Full autocracy,1,0,1,0,0.5631868,3.0,311
+1399,ZAI,1985,1,Full autocracy,1,0,1,0,0.8081439,3.0,311
+1143,JOR,1986,5,Full autocracy,1,0,0,0,-0.27498716,3.0,312
+1377,UAE,1986,5,Full autocracy,1,0,0,0,-0.6290443,3.0,312
+1391,YAR,1986,5,Full autocracy,1,0,0,0,0.71894395,3.0,312
+1396,YPR,1986,5,Full autocracy,1,1,0,0,0.616221,3.0,312
+1057,FJI,1987,2,Partial democracy without factionalism,1,1,0,0,-0.9519271999999999,3.0,313
+1162,LAO,1987,2,Full autocracy,1,0,0,0,0.8083336,3.0,313
+1293,ROK,1987,2,Full autocracy,1,0,0,0,-0.9707071,3.0,313
+1350,TAW,1987,2,Full autocracy,1,0,1,0,-0.9995553,3.0,313
+1124,ISR,1987,5,Partial democracy without factionalism,1,1,1,0,-1.7274453999999997,3.0,314
+1158,KUW,1987,5,Full autocracy,1,0,0,0,-1.1296084,3.0,314
+1257,OMA,1987,5,Full autocracy,1,0,0,0,-0.0421694,3.0,314
+1311,SAU,1987,5,Full autocracy,1,0,1,0,-0.12815985,3.0,314
+967,BFO,1988,1,Full autocracy,1,0,0,0,0.79362446,3.0,315
+981,BOT,1988,1,Partial democracy without factionalism,1,0,0,0,-0.15261999,3.0,315
+987,BUI,1988,1,Full autocracy,1,1,1,0,0.42247644,3.0,315
+1008,CEN,1988,1,Full autocracy,1,0,0,0,0.62860864,3.0,315
+1078,GHA,1988,1,Full autocracy,2,0,0,0,0.3500353,3.0,316
+1089,GUI,1988,1,Full autocracy,2,0,0,0,0.82552904,3.0,316
+1329,SOM,1988,1,Full autocracy,2,1,1,0,0.9294392,3.0,316
+1353,TAZ,1988,1,Full autocracy,2,0,0,0,0.6037935000000001,3.0,316
+1018,CHN,1988,2,Full autocracy,1,1,0,1,-0.17645644,3.0,317
+1149,JPN,1988,2,Full democracy,1,0,1,0,-2.3477056,3.0,317
+1322,SIN,1988,2,Partial autocracy,1,0,0,0,-1.7991396000000002,3.0,317
+1325,SOL,1988,2,Partial democracy without factionalism,1,0,0,0,-0.29555613,3.0,317
+956,AUL,1989,2,Full democracy,1,0,0,0,-1.8069688999999998,3.0,318
+973,BHU,1989,2,Full autocracy,1,0,1,0,0.96346235,3.0,318
+1212,MON,1989,2,Full autocracy,1,0,0,0,0.51834446,3.0,318
+1276,PNG,1989,2,Full democracy,1,1,1,0,0.4142316,3.0,318
+1038,CZE,1989,3,Full autocracy,1,0,1,0,-1.4130646,3.0,319
+1126,ITA,1989,3,Full democracy,1,0,0,0,-1.6879095000000002,3.0,319
+1280,POR,1989,3,Full democracy,1,0,0,0,-1.31705,3.0,319
+1295,RUM,1989,3,Full autocracy,1,1,1,0,0.053272467000000004,3.0,319
+1001,CAO,1990,1,Full autocracy,1,0,1,0,0.5679192,3.0,320
+1023,COM,1990,1,Full autocracy,1,0,0,0,0.7247439,3.0,320
+1027,CON,1990,1,Full autocracy,1,0,1,0,0.84785354,3.0,320
+1206,MLI,1990,1,Full autocracy,1,1,0,0,1.0336413,3.0,320
+1051,EQG,1990,1,Full autocracy,2,0,1,0,0.8403253,3.0,321
+1197,MAW,1990,1,Full autocracy,2,0,0,0,0.95071095,3.0,321
+1245,NIR,1990,1,Full autocracy,2,0,1,0,0.9217234000000001,3.0,321
+1301,RWA,1990,1,Full autocracy,2,1,1,0,0.883864,3.0,321
+968,BFO,1991,1,Full autocracy,1,0,0,0,0.8375164,3.0,322
+982,BOT,1991,1,Partial democracy without factionalism,1,0,0,0,-0.2698067,3.0,322
+1009,CEN,1991,1,Full autocracy,1,0,0,0,0.7129890999999999,3.0,322
+1153,KEN,1991,1,Full autocracy,1,1,1,1,0.2612846,3.0,322
+1067,GAB,1991,1,Full autocracy,2,0,0,0,0.41939570000000004,3.0,323
+1192,MAS,1991,1,Full democracy,2,0,0,0,-0.757285,3.0,323
+1317,SIE,1991,1,Full autocracy,2,1,1,0,1.23631,3.0,323
+1337,SWA,1991,1,Full autocracy,2,0,0,0,0.24101889999999998,3.0,323
+958,AUS,1991,3,Full democracy,1,0,0,0,-1.7937655,3.0,324
+1039,DEN,1991,3,Full democracy,1,0,0,0,-1.8305794999999998,3.0,324
+1083,GRC,1991,3,Full democracy,1,0,1,0,-1.6693113000000002,3.0,324
+1386,USS,1991,3,Full autocracy,1,1,0,1,-0.12356122,3.0,324
+1253,NTH,1991,3,Full democracy,2,0,0,0,-1.9930984,3.0,325
+1279,POL,1991,3,Partial democracy without factionalism,2,0,0,0,-0.9603326999999999,3.0,325
+1330,SPN,1991,3,Full democracy,2,0,0,0,-1.8558973,3.0,325
+1397,YUG,1991,3,Full autocracy,2,1,1,0,-0.7530206,3.0,325
+986,BRA,1991,4,Partial democracy without factionalism,1,0,0,0,0.041222718,3.0,326
+1098,HAI,1991,4,Full autocracy,1,1,0,0,0.77672917,3.0,326
+1203,MEX,1991,4,Partial autocracy,1,0,0,0,-0.28835028,3.0,326
+1265,PAR,1991,4,Partial democracy with factionalism,1,0,1,0,-0.062003326,3.0,326
+944,ALG,1991,5,Partial autocracy,1,1,1,0,0.16241872,3.0,327
+1144,JOR,1991,5,Partial autocracy,1,0,0,0,-0.36906168,3.0,327
+1175,LIB,1991,5,Full autocracy,1,0,0,0,-0.05562711,3.0,327
+1378,UAE,1991,5,Full autocracy,1,0,0,0,-0.6752718000000001,3.0,327
+1090,GUI,1992,1,Full autocracy,1,0,0,0,0.8654323,3.0,328
+1132,IVO,1992,1,Full autocracy,1,0,1,0,0.85669863,3.0,328
+1186,MAG,1992,1,Full autocracy,1,0,0,0,0.73165244,3.0,328
+1315,SEN,1992,1,Partial autocracy,1,1,1,0,0.40546509999999997,3.0,328
+1239,NIG,1992,1,Full autocracy,2,0,1,0,0.55250674,3.0,329
+1354,TAZ,1992,1,Full autocracy,2,0,0,0,0.76585215,3.0,329
+1400,ZAI,1992,1,Full autocracy,2,1,1,1,0.92041445,3.0,329
+1403,ZIM,1992,1,Full autocracy,2,0,1,0,0.07558268,3.0,329
+1050,EGY,1992,5,Full autocracy,1,1,0,0,0.41778558,3.0,330
+1287,QAT,1992,5,Full autocracy,1,0,0,0,-0.43269193,3.0,330
+1343,SYR,1992,5,Full autocracy,1,0,0,1,-0.010384309,3.0,330
+1371,TUN,1992,5,Full autocracy,1,0,0,0,-0.09758549,3.0,330
+1002,CAO,1994,1,Partial autocracy,1,0,1,0,0.68465716,3.0,331
+1070,GAM,1994,1,Full democracy,1,1,0,0,0.789774,3.0,331
+1193,MAS,1994,1,Full democracy,1,0,0,0,-0.78411895,3.0,331
+1338,SWA,1994,1,Full autocracy,1,0,0,0,0.35595006,3.0,331
+1103,HUN,1994,3,Full democracy,1,0,0,0,-1.0986122999999999,3.0,332
+1127,ITA,1994,3,Full democracy,1,0,0,0,-1.6314168,3.0,332
+1176,LIT,1994,3,Full democracy,1,0,0,0,-0.9382696,3.0,332
+1296,RUS,1994,3,Partial democracy with factionalism,1,1,0,0,-0.6692796999999999,3.0,332
+1159,KUW,1994,5,Full autocracy,1,0,0,0,-1.263692,3.0,333
+1160,KYR,1994,5,Full autocracy,1,0,0,0,0.33888477,3.0,333
+1379,UAE,1994,5,Full autocracy,1,0,0,0,-0.59652036,3.0,333
+1392,YEM,1994,5,Transition,1,1,0,0,0.7063446999999999,3.0,333
+1010,CEN,1995,1,Partial democracy with factionalism,1,0,0,1,0.93832403,3.0,334
+1024,COM,1995,1,Partial democracy with factionalism,1,1,0,0,0.9314444,3.0,334
+1180,MAA,1995,1,Full autocracy,1,0,1,0,0.79537386,3.0,334
+1219,MZM,1995,1,Full autocracy,1,0,0,0,1.2918598999999997,3.0,334
+949,ARM,1995,3,Partial democracy without factionalism,1,1,0,1,-0.29985429999999996,3.0,335
+1063,FRN,1995,3,Full democracy,1,0,1,0,-1.8470790000000001,3.0,335
+1110,IRE,1995,3,Full democracy,1,0,0,0,-1.8793398999999997,3.0,335
+1249,NOR,1995,3,Full democracy,1,0,0,0,-2.0781908,3.0,335
+975,BLR,1995,3,Partial democracy with factionalism,2,1,0,0,-1.0775589,3.0,336
+1281,POR,1995,3,Full democracy,2,0,0,0,-1.5243057,3.0,336
+1323,SLO,1995,3,Partial democracy with factionalism,2,0,1,0,-1.3267746999999999,3.0,336
+1383,UKR,1995,3,Partial democracy without factionalism,2,0,0,0,-0.5179431,3.0,336
+1068,GAB,1996,1,Full autocracy,1,0,0,0,0.44515762,3.0,337
+1091,GUI,1996,1,Full autocracy,1,0,0,0,0.9606891,3.0,337
+1187,MAG,1996,1,Partial democracy without factionalism,1,0,0,0,0.85376245,3.0,337
+1246,NIR,1996,1,Partial democracy with factionalism,1,1,1,0,1.1941084,3.0,337
+1221,NAM,1996,1,Partial democracy without factionalism,2,0,0,0,0.35814625,3.0,338
+1240,NIG,1996,1,Full autocracy,2,0,1,0,0.661992,3.0,338
+1363,TOG,1996,1,Partial autocracy,2,0,0,0,0.66452044,3.0,338
+1401,ZAM,1996,1,Partial democracy with factionalism,2,1,0,0,0.95974976,3.0,338
+974,BHU,1996,2,Full autocracy,1,0,1,0,1.1112115,3.0,339
+1190,MAL,1996,2,Partial democracy with factionalism,1,0,0,0,-0.45708135,3.0,339
+1213,MON,1996,2,Partial democracy without factionalism,1,0,0,0,0.6020001,3.0,339
+1228,NEP,1996,2,Partial democracy without factionalism,1,1,0,0,0.7584523,3.0,339
+940,ALB,1996,3,Partial democracy with factionalism,1,1,1,0,0.64153093,3.0,340
+961,BEL,1996,3,Full democracy,1,0,0,0,-1.8829066000000003,3.0,340
+1053,EST,1996,3,Partial democracy with factionalism,1,0,1,0,-1.0683985,3.0,340
+1340,SWZ,1996,3,Full democracy,1,0,1,0,-2.0782154,3.0,340
+1003,CAO,1997,1,Partial autocracy,1,0,1,0,0.67407477,3.0,341
+1028,CON,1997,1,Partial democracy with factionalism,1,1,0,0,0.9858544,3.0,341
+1133,IVO,1997,1,Full autocracy,1,0,1,0,1.0090789,3.0,341
+1198,MAW,1997,1,Partial democracy without factionalism,1,0,0,0,1.0424905,3.0,341
+977,BNG,1997,2,Partial democracy with factionalism,1,0,1,0,0.69817233,3.0,342
+992,CAM,1997,2,Partial democracy with factionalism,1,1,1,0,0.8480173000000001,3.0,342
+1150,JPN,1997,2,Full democracy,1,0,1,0,-2.2462666000000002,3.0,342
+1163,LAO,1997,2,Full autocracy,1,0,0,0,0.9697478999999999,3.0,342
+1052,EQG,1998,1,Full autocracy,1,0,1,0,0.97694576,3.0,343
+1071,GAM,1998,1,Full autocracy,1,0,0,0,0.78916186,3.0,343
+1080,GNB,1998,1,Partial democracy with factionalism,1,1,0,0,1.1416024999999999,3.0,343
+1181,MAA,1998,1,Full autocracy,1,0,1,0,0.776167,3.0,343
+1171,LES,1998,1,Partial democracy with factionalism,2,1,0,0,0.86812055,3.0,344
+1207,MLI,1998,1,Partial democracy without factionalism,2,0,0,0,1.2039728,3.0,344
+1220,MZM,1998,1,Partial democracy without factionalism,2,0,0,0,1.2978725,3.0,344
+1355,TAZ,1998,1,Partial autocracy,2,0,0,0,1.0262916,3.0,344
+995,CAN,1998,3,Full democracy,1,0,0,0,-1.933073,3.0,345
+1339,SWD,1998,3,Full democracy,1,0,0,0,-2.4619172000000002,3.0,345
+1382,UK,1998,3,Full democracy,1,0,0,0,-1.8475508999999999,3.0,345
+1393,YGS,1998,3,Full autocracy,1,1,1,0,-0.7114005999999999,3.0,345
+1055,ETI,1999,1,Partial democracy with factionalism,1,1,0,0,1.0717290000000002,3.0,346
+1194,MAS,1999,1,Full democracy,1,0,0,0,-0.6541305000000001,3.0,346
+1222,NAM,1999,1,Partial democracy without factionalism,1,0,1,0,0.4762835999999999,3.0,346
+1241,NIG,1999,1,Full autocracy,1,0,1,0,0.7037014,3.0,346
+948,ARG,1999,4,Partial democracy without factionalism,1,0,0,0,-0.6141251999999999,3.0,347
+1095,GUY,1999,4,Partial democracy with factionalism,1,0,1,0,0.07902199,3.0,347
+1099,HAI,1999,4,Partial democracy with factionalism,1,1,0,0,0.8270101000000001,3.0,347
+1368,TRI,1999,4,Full democracy,1,0,0,0,-0.17334342,3.0,347
+993,CAM,2000,2,Partial autocracy,1,0,1,0,0.8980461999999999,3.0,348
+1234,NEW,2000,2,Full democracy,1,0,0,0,-1.8619636999999998,3.0,348
+1294,ROK,2000,2,Partial democracy without factionalism,1,0,0,0,-1.4998491000000003,3.0,348
+1326,SOL,2000,2,Partial democracy with factionalism,1,1,0,0,-0.26570317,3.0,348
+1004,CAO,2002,1,Partial autocracy,1,0,1,0,0.81230104,3.0,349
+1092,GUI,2002,1,Partial autocracy,1,0,0,0,1.1057881,3.0,349
+1134,IVO,2002,1,Partial democracy with factionalism,1,1,1,0,1.1477941999999999,3.0,349
+1364,TOG,2002,1,Partial autocracy,1,0,0,0,0.7985076999999999,3.0,349
+1011,CEN,2003,1,Partial democracy with factionalism,1,1,0,0,1.1523309,3.0,350
+1013,CHA,2003,1,Partial autocracy,1,0,0,0,1.1740596,3.0,350
+1154,KEN,2003,1,Partial autocracy,1,0,1,0,0.7634637,3.0,350
+1223,NAM,2003,1,Partial democracy without factionalism,1,0,0,0,0.78483856,3.0,350
